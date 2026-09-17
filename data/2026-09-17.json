@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T11:48:55+08:00",
-  "title": "聯準會升息一碼，美股道瓊跌逾 600 點",
-  "summary": "## 一、今日重點快速提醒（3-5 點）\n- 美國聯準會（Fed）進行三年來首次升息一碼，將利率區間調升至 3.75%-4.0%，儘管總統川普反對，此舉仍獲一致通過，市場預期後續可能還有升息訊號（多源, 09/17 08:40 台灣時間）。\n- 聯準會升息消息導致美股主要指數收黑，道瓊工業指數下跌逾 600 點，但半導體股相對抗跌，台積電美ADR走揚（多源, 09/17 08:24 台灣時間）。\n- AI 產業持續發展，蘋果計劃推出 AI 推論伺服器並考慮採用輝達 NVLink 技術，同時輝達也發布 DSX MaxLPS 系統以優化電力下的 token 產出（多源, 09/16 23:36 台灣時間）。\n- Intel 股價上漲，市場期待其記憶體晶片業務能帶來轉機，並傳出正與 SK Hynix 洽談在美國建立記憶體晶片合作夥伴關係（單源, 09/17 07:51 台灣時間）。\n- 中東地緣政治緊張持續影響能源市場，雖然國際油價在近期急漲後回落，但美國國內燃料價格仍處於歷史高點，推升消費者能源與借貸成本（多源, 09/17 04:22 台灣時間）。\n\n## 二、AI / 半導體 / 美股 / 聯準會 分析\n- **聯準會政策與美股反應：** 美國聯準會如預期升息一碼，為三年來首次，將聯邦基金利率目標區間上調至 3.75%-4.0%（MarketWatch, 09/17 06:16）。儘管決策委員會一致通過，但對未來利率走向的指引存在分歧（MarketWatch, 09/17 06:25）。此舉旨在抑制頑固的高通膨，Fed 主席 Warsh 傳達了堅決抗通膨的訊息（MarketWatch, 09/17 05:40）。受此影響，美股三大指數收低，道瓊工業指數下跌超過 600 點（MarketWatch, 09/17 05:40；中央社 產經證券, 09/17 04:47），S&P 500 (-0.45%) 和 Nasdaq (-0.01%) 也呈現跌勢。消費者面臨油價上漲和利率上升的雙重壓力，估計每戶家庭成本增加 1,700 美元（CNBC Markets, 09/17 01:32）。（信心：高）\n- **AI 產業發展與安全：** OpenAI 揭露了六個新的安全問題，並宣布將建立新系統追蹤、調查和公開模型異常行為（BBC Business, 09/17 11:09）。此外，OpenAI 的「Lily計畫」被曝光，數百名外包人員正審閱用戶的 ChatGPT 對話內容（鉅亨網 頭條, 09/17 11:16）。Snapchat 執行長表示，對青少年使用時間限制持開放態度，認為這是產業重要一步（BBC World, 09/17 07:41）。在技術發展方面，蘋果公司計劃重返伺服器市場，推出 AI 推論伺服器，並考慮採用輝達的 NVLink Fusion 技術來串聯自家 M8 Ultra 晶片（中央社 科技, 09/16 23:36）。輝達也發布了 DSX MaxLPS 全廠級功耗優化系統，可在不新增電力基礎設施下，將每兆瓦 token 產出最高提升 40%（鉅亨網 頭條, 09/17 11:10）。CNBC 財經節目主持人 Jim Cramer 仍看好 AI 投資題材，認為 AI 支出將持續快速增長（鉅亨網 頭條, 09/17 11:30）。（信心：高）\n- **半導體產業動態：** Intel 股價上漲，市場寄望記憶體晶片業務能成為其轉機的下一步。有報導指出 Intel 正與 SK Hynix 進行初步洽談，考慮在美國建立某種形式的記憶體晶片製造合作夥伴關係（MarketWatch, 09/17 07:51）。這對 INTC (暫缺) 來說是潛在利好消息。NVDA (+0.82%)、ASML (+0.67%)、WDC (+1.22%) 均呈現上漲，顯示半導體產業在 Fed 升息背景下仍具韌性。SK Hynix (-0.68%) 和 MU (-0.11%) 則小幅下跌。（信心：高）\n- **地緣政治與能源：** 美國與以色列對伊朗的戰爭加劇了高通膨，推升原油價格（中央社 產經證券, 09/17 04:47）。然而，有跡象顯示中東近期部分供應中斷問題開始緩解，加上交易員調整倉位，國際油價今天回落，WTI (-3.51%) 和 Brent (-2.94%) 均下跌（中央社 產經證券, 09/17 04:58）。儘管如此，柴油價格仍創歷史新高，運輸公司對燃料價格響起警報（CNBC Markets, 09/17 04:22）。美國總統川普表示，美伊戰爭可能在期中選舉前結束，並將有「非常好的結局」（經濟日報, 09/17 11:39）。（信心：高）\n\n## 三、台股與台廠動態（獨立段落）\n台股今日開盤上漲 87.21 點，加權股價指數為 45936.11 點（中央社 產經證券, 09/17 09:04），最終收盤上漲 1.33%。新台幣兌美元匯率開盤貶值 2.2 分，以 31.91 元開盤（中央社 產經證券, 09/17 09:04）。儘管美國聯準會升息導致美股收黑，但半導體股相對抗跌，台積電美ADR走揚 0.96%（中央社 產經證券, 09/17 08:24）。法人建議台股今日應觀察台積電 (暫缺) 等大型權值股表現，以及美債殖利率走高對資金面的影響（中央社 產經證券, 09/17 08:24）。聯發科 (+1.77%) 和鴻海 (+1.61%) 均表現強勁。國發會表示，在「AI 新十大建設」加持下，115 年公共建設計畫執行情形良好，預計第四季將進入收割期，全年達成率挑戰 95% 以上（鉅亨網 頭條, 09/17 11:32）。瑩碩 (6677-TW) 與韓國 YS 簽署專屬藥物授權合約，將旗下治療攝護腺肥大藥物進軍韓國市場，搶攻 1 億美元商機（鉅亨網 頭條, 09/17 11:27）。\n\n## 四、市場情緒解讀（結合報價）\n### 4.1 主要指數表現：Markdown 表格\n| 名稱       | 收盤       | 漲跌      |\n| :--------- | :--------- | :-------- |\n| S&P 500    | 7,551.81   | -0.45%    |\n| Nasdaq     | 25,978.42  | -0.01%    |\n| Dow        | 51,461.90  | -1.21%    |\n| TAIEX      | 46,460.19  | +1.33%    |\n| SOX 費半   | (暫缺)     | (暫缺)    |\n\n### 4.2 半導體與科技個股：Markdown 表格\n| 名稱        | 收盤       | 漲跌      |\n| :---------- | :--------- | :-------- |\n| NVDA        | 213.90     | +0.82%    |\n| MU          | 926.55     | -0.11%    |\n| ASML        | 1,602.22   | +0.67%    |\n| WDC         | 416.97     | +1.22%    |\n| SK Hynix    | 1,747,000.00 | -0.68%    |\n| INTC        | (暫缺)     | (暫缺)    |\n| 台積電      | (暫缺)     | (暫缺)    |\n\n### 4.3 避險資產與波動率：Markdown 表格\n| 名稱    | 收盤       | 漲跌      |\n| :------ | :--------- | :-------- |\n| Gold    | (暫缺)     | (暫缺)    |\n| US 10Y  | 5.01       | +0.20%    |\n| DXY     | 100.33     | +0.68%    |\n| USD/JPY | 156.12     | +0.55%    |\n| BTC     | 76,403.83  | +1.05%    |\n| VIX     | 17.71      | +2.97%    |\n| WTI     | 102.12     | -3.51%    |\n| Brent   | 105.55     | -2.94%    |\n聯準會升息後，美股主要指數下跌，VIX 指數上升 (+2.97%)，顯示市場波動性增加。美元指數 (DXY) 和美債 10 年期殖利率 (US 10Y) 均上漲，反映資金流向美元資產，但國際油價 WTI 和 Brent 卻顯著下跌，可能與中東供應中斷緩解的報導有關。\n\n### 4.4 跨市場聯動 F1 ＋ 異常值 F2（單日漲跌幅絕對值 >3% vs 大盤、或 >5% 者標記）\n- **F1 跨市場聯動：** 聯準會升息導致美國股市下跌，尤其是道瓊指數跌幅較大，但台股 TAIEX 卻逆勢上漲 (+1.33%)，顯示台灣市場可能受半導體類股（如台積電美ADR走揚、聯發科上漲）的支撐，與美股表現出現分歧。美元指數和美債殖利率上升，通常對新興市場貨幣造成壓力，新台幣今日開盤貶值也印證了這一點。\n- **F2 異常值：**\n    - **WTI (-3.51%)**：國際油價顯著下跌，與美國國內燃料價格高漲的報導形成對比，可能反映市場對短期供應緩解的反應。\n    - **Brent (-2.94%)**：與 WTI 走勢一致，國際油價跌幅接近 3%。\n    - **VIX (+2.97%)**：波動率指數上升，反映聯準會升息後市場不確定性增加。\n    - **TAIEX (+1.33%)**：在美股主要指數下跌的背景下，台股表現強勁，為正向異常值。\n    - **聯發科 (+1.77%)、鴻海 (+1.61%)**：在台股中表現突出，漲幅較大。\n\n## 五、If-Then 訊號與風險\n- 若聯準會後續持續釋出鷹派訊號，且通膨未能有效降溫，則全球股市可能面臨持續的波動與下行壓力（信心：高）。\n- 若 Intel 與 SK Hynix 的記憶體晶片合作洽談取得實質進展，則可能提振記憶體產業的投資情緒，並對相關供應鏈產生正面影響（信心：中）。\n- 若 AI 安全問題的討論持續升溫，並促使各國政府或國際組織推出更嚴格的監管框架，則可能影響 AI 產業的發展速度與企業創新模式（信心：中）。\n\n## 六、三情境推演\n- **樂觀情境 (30%)：** 聯準會升息後通膨壓力迅速緩解，市場對未來升息預期降低，地緣政治緊張局勢趨於緩和。AI 產業在技術創新與安全治理之間找到平衡，科技巨頭持續投入研發，帶動半導體需求強勁增長。\n- **基準情境 (50%)：** 聯準會維持謹慎的貨幣政策，通膨緩慢下降，市場在升息預期與經濟數據之間持續拉鋸。AI 發展在競爭中前進，安全問題逐步被重視並納入企業內部規範，但尚未形成全面性的外部監管。地緣政治風險持續存在，但未進一步惡化。\n- **悲觀情境 (20%)：** 聯準會升息未能有效抑制通膨，甚至引發經濟衰退擔憂。地緣政治衝突加劇，能源價格再次飆升，供應鏈面臨更大挑戰。AI 安全問題爆發重大事件，導致各國政府實施嚴格監管，嚴重阻礙產業創新與發展。\n\n## 七、今日深入追問建議（3 條）\n1. 聯準會升息後，市場對美國經濟軟著陸或硬著陸的預期如何變化？\n2. AI 產業在追求技術突破的同時，如何有效平衡安全與倫理問題？\n3. 中東地緣政治對國際油價的短期回落是否具備可持續性？\n\n## 八、整體基調\n謹慎樂觀，主因是聯準會升息雖導致美股下跌，但半導體與 AI 產業仍有積極動態，且台股表現相對強勁。",
+  "generated_at": "2026-09-17T12:43:46+08:00",
+  "title": "聯準會升息美股跌，台股逆勢走揚",
+  "summary": "## 一、今日重點快速提醒（3-5 點）\n- 美國聯準會（Fed）如預期升息一碼，為三年來首次，並釋出後續可能再升息的訊號，導致美股主要指數收黑（多源，09/17 08:40 台灣時間）（信心：高）。\n- 儘管美股下跌，台股加權指數與半導體類股（SOX 費半）仍逆勢上漲，台積電與聯發科等權值股表現強勁（多源，09/17 12:23 台灣時間）（信心：高）。\n- Intel股價因傳出與SK Hynix洽談在美生產記憶體晶片而上漲，同時Apple也計畫推出AI伺服器並考慮採用NVIDIA技術，顯示AI與半導體產業仍有積極發展（多源，09/17 07:51 台灣時間）（信心：高）。\n- 中東地緣政治緊張局勢持續，導致油價和借貸成本上升，對美國消費者造成壓力（多源，09/17 01:32 台灣時間）（信心：中）。\n\n## 二、AI / 半導體 / 美股 / 聯準會 分析\n美國聯準會（Fed）在市場預期下升息一碼，將利率區間調升至3.75%-4.0%，這是三年來首次升息，且會後聲明與主席華許（Kevin Warsh）的談話偏向強硬，暗示未來可能進一步升息以抑制通膨（多源，09/17 08:40 台灣時間）。此舉導致美股道瓊指數下跌逾600點，S&P 500和Nasdaq也收低，市場預期將有更多利率上調（多源，09/17 05:40 台灣時間）。然而，美國總統川普對此表示不滿，要求聯準會將利率降至1%或更低（單源，09/17 07:45 台灣時間）。\n\n在半導體領域，Intel（INTC: +4.03%）股價上漲，因有報導指出Intel正與SK Hynix（SK Hynix: +0.11%）洽談合作，考慮在美國生產記憶體晶片，這被視為Intel轉型的下一步（單源，09/17 07:51 台灣時間）。同時，Apple公司計畫重返伺服器市場，推出AI推論伺服器，並考慮採用NVIDIA（NVDA: +0.82%）的NVLink Fusion技術來串聯自家M8 Ultra晶片（單源，09/16 23:36 台灣時間）。OpenAI則揭露了六項新的安全問題，並宣布將建立新系統來追蹤、調查和披露模型異常行為（單源，09/17 11:09 台灣時間）。儘管AI發展放緩的討論持續，Meta執行長祖克柏認為市場競爭和法律責任足以確保AI安全（單源，09/16 18:05 台灣時間）。半導體指數SOX 費半（+0.63%）在美股普遍下跌的情況下相對抗跌，顯示市場對半導體產業的信心仍在（多源，09/17 08:24 台灣時間）。\n\n地緣政治方面，伊朗襲擊美國設施造成廣泛破壞，美國與以色列對伊朗的戰爭導致原油價格飆升，推高了美國家庭的能源和借貸成本（多源，09/17 02:36 台灣時間）。川普總統也因加拿大擬成為歐盟「準成員」而威脅對歐盟徵收關稅，加劇了國際貿易緊張局勢（多源，09/17 08:55 台灣時間）。\n\n## 三、台股與台廠動態（獨立段落）\n今日台股表現強勁，加權股價指數開盤上漲87.21點至45936.11點（單源，09/17 09:04 台灣時間），最終收盤上漲1.42%。儘管美國聯準會升息導致美股收黑，但台股在台積電（台積電: +2.10%）美ADR走揚0.96%的帶動下，以及本土資金的支撐，表現出相對抗跌的韌性，彭博報導指出台股已躍居亞洲科技股領頭羊（多源，09/17 12:23 台灣時間）。聯發科（聯發科: +0.99%）和鴻海（鴻海: +1.61%）也呈現上漲。機殼廠鴻準（2354-TW）8月營收創歷史單月新高，且因實施庫藏股，股價寫下今年高點（單源，09/17 12:07 台灣時間）。此外，國科會與德國聯邦研究、科技及太空部在德國慕尼黑舉辦「2026台德半導體合作成果交流研討會」，持續深化雙方在半導體晶片與產業創新方面的策略夥伴關係（單源，09/17 12:08 台灣時間）。新台幣兌美元匯率開盤貶值2.2分，為31.91元（單源，09/17 09:04 台灣時間）。\n\n## 四、市場情緒解讀（結合報價）\n### 4.1 主要指數表現：Markdown 表格\n| 名稱 | 收盤 | 漲跌 |\n|---|---|---|\n| S&P 500 | 7,551.81 | -0.45% |\n| Nasdaq | 25,978.43 | -0.01% |\n| Dow | 51,461.90 | -1.21% |\n| TAIEX | 46,500.97 | +1.42% |\n| SOX 費半 | 11,246.11 | +0.63% |\n\n### 4.2 半導體與科技個股：Markdown 表格\n| 名稱 | 收盤 | 漲跌 |\n|---|---|---|\n| NVDA | 213.90 | +0.82% |\n| MU | 926.55 | -0.11% |\n| ASML | 1,602.22 | +0.67% |\n| WDC | 416.97 | +1.22% |\n| SK Hynix | 1,761,000.00 | +0.11% |\n| INTC | 101.05 | +4.03% |\n| 台積電 | 2,430.00 | +2.10% |\n\n### 4.3 避險資產與波動率：Markdown 表格\n| 名稱 | 收盤 | 漲跌 |\n|---|---|---|\n| Gold | 4,330.10 | -1.31% |\n| US 10Y | 5.01 | +0.20% |\n| DXY | 100.29 | -0.02% |\n| USD/JPY | 156.08 | +0.53% |\n| BTC | 76,260.59 | +0.86% |\n| VIX | 17.71 | +2.97% |\n| WTI | 102.35 | -0.08% |\n| Brent | 105.89 | +0.06% |\n聯準會升息後，美國10年期公債殖利率（US 10Y: +0.20%）上升，黃金（Gold: -1.31%）下跌，VIX恐慌指數（VIX: +2.97%）也走高，顯示市場對傳統風險資產的避險情緒升溫。然而，比特幣（BTC: +0.86%）逆勢上漲，油價則呈現漲跌互見。\n\n### 4.4 跨市場聯動 F1 ＋ 異常值 F2\n- **F1 跨市場聯動：** 聯準會升息導致美股主要指數下跌，但半導體指數（SOX 費半）和台股（TAIEX）卻逆勢上漲，顯示市場資金在不同區域和產業間的流動與再配置。\n- **F2 異常值：** SPCX（備援 Generac）上漲5.15%，INTC上漲4.03%，漲幅顯著；台積電上漲2.10%，TAIEX上漲1.42%，WDC上漲1.22%，鴻海上漲1.61%，聯發科上漲0.99%，表現優於大盤。下跌方面，道瓊指數下跌1.21%，黃金下跌1.31%，跌幅相對較大。\n\n## 五、If-Then 訊號與風險\n- 若聯準會持續其鷹派升息路徑，且核心通膨未能有效回落，則美國經濟可能面臨更大的下行壓力，進而影響全球市場流動性（信心：高）。\n- 若Intel與SK Hynix的記憶體晶片合作案進展順利，則可能改變全球記憶體產業的供應鏈格局，並為Intel的轉型帶來實質利好（信心：中）。\n- 若中東地緣政治緊張局勢進一步升級，導致原油供應中斷，則國際油價可能再度飆升，加劇全球通膨壓力並推升企業營運成本（信心：中）。\n\n## 六、三情境推演\n- **樂觀 (30%):** 聯準會升息利空已被市場消化，AI與半導體產業的創新動能持續，帶動科技股反彈。台股在本土資金與權值股支撐下，維持強勁表現，地緣政治風險未進一步擴大。\n- **基準 (50%):** 聯準會按照既定路徑緩慢升息，美股在利率壓力下呈現震盪，但AI與半導體領域的特定利好消息（如Intel合作、Apple AI伺服器）能提供板塊支撐。台股雖受美債殖利率影響，但仍能維持相對強勢。\n- **悲觀 (20%):** 聯準會升息幅度與頻率超出市場預期，地緣政治衝突（特別是中東）惡化導致油價失控，全球通膨加劇，經濟增長顯著放緩，市場全面進入避險模式，科技股與風險資產面臨巨大拋售壓力。\n\n## 七、今日深入追問建議（3 條）\n- 聯準會官員對未來利率走向的分歧意見，對市場預期有何具體影響？\n- Intel與SK Hynix潛在的記憶體晶片合作，對雙方公司及整體記憶體市場的競爭格局將帶來什麼變化？\n- 美國總統川普對聯準會利率政策和國際貿易的強硬立場，可能如何影響未來的市場不確定性？\n\n## 八、整體基調\n謹慎樂觀，主因：聯準會升息對美股造成壓力，但AI與半導體產業仍有亮點，且台股表現相對強勁。",
   "market": [
     {
       "ticker": "^GSPC",
@@ -13,7 +13,7 @@
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 25978.42,
+      "price": 25978.43,
       "change_pct": -0.01
     },
     {
@@ -25,14 +25,14 @@
     {
       "ticker": "^TWII",
       "name": "TAIEX",
-      "price": 46460.19,
-      "change_pct": 1.33
+      "price": 46500.97,
+      "change_pct": 1.42
     },
     {
       "ticker": "^SOX",
       "name": "SOX 費半",
-      "price": null,
-      "change_pct": null
+      "price": 11246.11,
+      "change_pct": 0.63
     },
     {
       "ticker": "NVDA",
@@ -49,8 +49,8 @@
     {
       "ticker": "000660.KS",
       "name": "SK Hynix",
-      "price": 1747000.0,
-      "change_pct": -0.68
+      "price": 1761000.0,
+      "change_pct": 0.11
     },
     {
       "ticker": "ASML",
@@ -67,8 +67,8 @@
     {
       "ticker": "INTC",
       "name": "INTC",
-      "price": null,
-      "change_pct": null
+      "price": 101.05,
+      "change_pct": 4.03
     },
     {
       "ticker": "GOOG",
@@ -79,8 +79,8 @@
     {
       "ticker": "META",
       "name": "META",
-      "price": null,
-      "change_pct": null
+      "price": 673.31,
+      "change_pct": 0.46
     },
     {
       "ticker": "AAPL",
@@ -97,20 +97,20 @@
     {
       "ticker": "SPCX",
       "name": "SPCX",
-      "price": null,
-      "change_pct": null
+      "price": 150.88,
+      "change_pct": 5.15
     },
     {
       "ticker": "2330.TW",
       "name": "台積電",
-      "price": null,
-      "change_pct": null
+      "price": 2430.0,
+      "change_pct": 2.1
     },
     {
       "ticker": "2454.TW",
       "name": "聯發科",
-      "price": 4610.0,
-      "change_pct": 1.77
+      "price": 4575.0,
+      "change_pct": 0.99
     },
     {
       "ticker": "2317.TW",
@@ -121,8 +121,8 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": null,
-      "change_pct": null
+      "price": 4330.1,
+      "change_pct": -1.31
     },
     {
       "ticker": "^TNX",
@@ -133,20 +133,20 @@
     {
       "ticker": "DX-Y.NYB",
       "name": "DXY",
-      "price": 100.33,
-      "change_pct": 0.68
+      "price": 100.29,
+      "change_pct": -0.02
     },
     {
       "ticker": "JPY=X",
       "name": "USD/JPY",
-      "price": 156.12,
-      "change_pct": 0.55
+      "price": 156.08,
+      "change_pct": 0.53
     },
     {
       "ticker": "BTC-USD",
       "name": "BTC",
-      "price": 76403.83,
-      "change_pct": 1.05
+      "price": 76260.59,
+      "change_pct": 0.86
     },
     {
       "ticker": "^VIX",
@@ -157,14 +157,14 @@
     {
       "ticker": "CL=F",
       "name": "WTI",
-      "price": 102.12,
-      "change_pct": -3.51
+      "price": 102.35,
+      "change_pct": -0.08
     },
     {
       "ticker": "BZ=F",
       "name": "Brent",
-      "price": 105.55,
-      "change_pct": -2.94
+      "price": 105.89,
+      "change_pct": 0.06
     }
   ],
   "sources": [
@@ -178,14 +178,14 @@
     {
       "headline": "Snapchat open to putting time limits on teens, boss tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "thumbnail": null,
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
       "publisher": "BBC World",
       "published_at": "2026-09-17T07:41:57+08:00"
     },
     {
       "headline": "Interest rates hold expected but Bank of England facing tough choices",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-      "thumbnail": null,
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg",
       "publisher": "BBC Business",
       "published_at": "2026-09-17T07:15:01+08:00"
     },
@@ -199,21 +199,21 @@
     {
       "headline": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
       "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "thumbnail": null,
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108364134-1789598777418-108364134-17895980362026-09-16t223320z_1555640163_rc2mknadlrnb_rtrmadp_0_usa-trump.jpeg?v=1789598796&w=1920&h=1080",
       "publisher": "CNBC Top",
       "published_at": "2026-09-17T08:55:35+08:00"
     },
     {
       "headline": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
       "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "thumbnail": null,
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108343486-1785577737829-gettyimages-2286944361-AFP_C37F7YW.jpeg?v=1785577773&w=1920&h=1080",
       "publisher": "CNBC Top",
       "published_at": "2026-09-17T11:21:50+08:00"
     },
     {
       "headline": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
       "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-      "thumbnail": null,
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108354867-1787783196641-gettyimages-2291635347-AFP_C6KY7DE.jpeg?v=1787783566&w=1920&h=1080",
       "publisher": "CNBC Markets",
       "published_at": "2026-09-17T04:22:24+08:00"
     },
@@ -239,18 +239,18 @@
       "published_at": "2026-09-17T06:25:00+08:00"
     },
     {
-      "headline": "Morocco’s 2026 election: A test of political trust and engagement",
-      "url": "https://www.aljazeera.com/news/2026/9/17/moroccos-2026-election-a-test-of-political-trust-and-engagement?traffic_source=rss",
-      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260910__C7WU3JV__v1__MidRes__MoroccoVoteParliament-1789565326.jpg?resize=1200%2C630",
+      "headline": "US extends visa ban on Palestinian officials before UN General Assembly",
+      "url": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aab3e7ccd-1789607548.jpg?resize=1920%2C1440",
       "publisher": "Al Jazeera",
-      "published_at": "2026-09-17T10:47:53+08:00"
+      "published_at": "2026-09-17T11:44:13+08:00"
     },
     {
-      "headline": "Floods return to Valencia with 2024 tragedy still fresh in mind",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_floods-return-to-valencia-with-2024-tragedy-in-mind-160926?traffic_source=rss",
-      "thumbnail": null,
+      "headline": "Yemeni forces target Houthis and a Saudi base as US rules out direct role",
+      "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab333d44ee-1789604669.jpg?resize=1920%2C1440",
       "publisher": "Al Jazeera",
-      "published_at": "2026-09-17T10:32:10+08:00"
+      "published_at": "2026-09-17T11:26:56+08:00"
     },
     {
       "headline": "台股開盤漲87.21點",
@@ -269,44 +269,44 @@
     {
       "headline": "矽盛世與WAICO爭霸　東協掀主權AI風潮靈活戰略拒站隊",
       "url": "https://www.cna.com.tw/news/aopl/202609170020.aspx",
-      "thumbnail": null,
+      "thumbnail": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260917/1999x1049_486757503985.jpg",
       "publisher": "中央社 科技",
       "published_at": "2026-09-17T07:40:30+08:00"
     },
     {
       "headline": "美媒：蘋果計劃推出AI伺服器　考慮採輝達NVLink技術",
       "url": "https://www.cna.com.tw/news/ait/202609160380.aspx",
-      "thumbnail": null,
+      "thumbnail": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260917/1279x671_259936286415.jpg",
       "publisher": "中央社 科技",
       "published_at": "2026-09-16T23:36:32+08:00"
     },
     {
-      "headline": "澳洲限縮打工度假簽證後再出手！持學生簽證者「想帶家人」難了",
-      "url": "https://money.udn.com/money/story/5599/9760294",
-      "thumbnail": null,
+      "headline": "日本首度調查外國人持有土地比例　台灣占7.7%居第3",
+      "url": "https://money.udn.com/money/story/5599/9760473",
+      "thumbnail": "https://money.udn.com/static/img/moneyudn.jpg",
       "publisher": "經濟日報",
-      "published_at": "2026-09-17T11:40:06+08:00"
+      "published_at": "2026-09-17T12:37:18+08:00"
     },
     {
-      "headline": "川普曝美伊戰爭可能期中選舉前結束 稱將有非常好的結局",
-      "url": "https://money.udn.com/money/story/5599/9760289",
-      "thumbnail": null,
+      "headline": "彭博：台股躍居亞洲科技股領頭羊！本土資金是大靠山 外資狂賣也不怕",
+      "url": "https://money.udn.com/money/story/123398/9760441",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/17/35336884.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=1050&exp=3600",
       "publisher": "經濟日報",
-      "published_at": "2026-09-17T11:39:01+08:00"
+      "published_at": "2026-09-17T12:23:26+08:00"
     },
     {
-      "headline": "中國訪日遊客銳減59% 連續9個月下滑",
-      "url": "https://news.cnyes.com/news/id/6608859",
-      "thumbnail": null,
+      "headline": "力抗通膨！Fed如預期升息1碼 國泰世華銀預估12月恐再升1碼",
+      "url": "https://news.cnyes.com/news/id/6608909",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6608909/m/35d25cdb3d050a82d3fccdcbcb7c9cc9.jpg",
       "publisher": "鉅亨網 頭條",
-      "published_at": "2026-09-17T11:45:01+08:00"
+      "published_at": "2026-09-17T12:18:03+08:00"
     },
     {
-      "headline": "AI新十大建設加持！國發會：公建第4季進入收割期 全年達成率挑戰95%",
-      "url": "https://news.cnyes.com/news/id/6608863",
-      "thumbnail": null,
+      "headline": "台德半導體交流會登場 國科會：深化雙方半導體晶片與產業創新策略",
+      "url": "https://news.cnyes.com/news/id/6608872",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6608872/m/c6570e9aa046b39cbe28ab94ec89b73b.jpg",
       "publisher": "鉅亨網 頭條",
-      "published_at": "2026-09-17T11:32:13+08:00"
+      "published_at": "2026-09-17T12:08:17+08:00"
     }
   ]
 }
