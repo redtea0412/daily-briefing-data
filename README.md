@@ -27,16 +27,33 @@ Android App 直接從這裡讀取。
 
 ---
 
+## 網頁預覽版
+
+不用安裝 App 也能看：
+
+**https://redtea0412.github.io/daily-briefing-data/**
+
+那是 `index.html`，用 GitHub Pages 託管，重現了 App 三個分頁的樣子。
+它和 JSON 放在同一個 repo，所以用相對路徑 `./index.json` 就讀得到，
+沒有跨網域問題。
+
+---
+
 ## 檔案結構
 
 ```
 .
+├── index.html          網頁預覽版（GitHub Pages 的首頁）
+├── .nojekyll           告訴 GitHub Pages 不要做 Jekyll 處理
 ├── index.json          目錄：所有日期與標題的清單
 └── data/
     ├── 2026-07-28.json 單日簡報（完整內容）
     ├── 2026-07-29.json
     └── …
 ```
+
+> `index.html` 和 `index.json` 是兩個不同的檔案，別看錯。
+> 前者是網頁，後者是資料目錄。
 
 App 的讀取順序是：先抓 `index.json` 知道有哪幾天，再按需要抓 `data/<日期>.json`。
 
