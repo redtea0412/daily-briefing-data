@@ -1,298 +1,298 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T08:07:07+08:00",
-  "title": "那斯達克創新高，Meta AI與記憶體股表現強勁",
-  "summary": "## 一、今日重點快速提醒（3-5 點）\n- 那斯達克綜合指數盤中創下歷史新高，科技股整體表現強勁，費半指數大漲 (+2.06%)（多源, 09/23 05:44 台灣時間 GMT+8, 09/23 05:31 台灣時間 GMT+8）（信心：高）。\n- Meta的AI助理Muse迅速走紅，被視為其「ChatGPT時刻」，引發華爾街重新評估金融、旅遊等行業的獲利模式（多源, 09/23 05:26 台灣時間 GMT+8, 09/23 07:54 台灣時間 GMT+8）（信心：高）。\n- 美國與伊朗局勢緊張，川普揚言可能「殲滅」伊朗，但雙方仍進行談判，國際油價因此收低（多源, 09/23 05:50 台灣時間 GMT+8, 09/23 06:48 台灣時間 GMT+8）（信心：高）。\n- 記憶體NAND Flash因AI模型需求增長，被分析師視為關鍵組件，SanDisk (WDC) 目標價獲上調（多源, 09/23 05:30 台灣時間 GMT+8, 09/23 07:10 台灣時間 GMT+8）（信心：高）。\n- 台灣在生成式AI使用率方面持續提升，第二季達到33.8%，全球排名上升至第19名（單源, 09/22 12:36 台灣時間 GMT+8）（信心：中）。\n\n## 二、AI / 半導體 / 美股 / 聯準會 分析\n- 那斯達克指數 (+0.45%) 創下歷史新高，SOX費半指數大漲 (+2.06%)，顯示市場對科技和半導體產業的樂觀情緒持續高漲（多源, 09/23 05:44 台灣時間 GMT+8, 09/23 05:31 台灣時間 GMT+8）（信心：高）。\n- Meta的AI助理Muse迅速走紅，其股價大幅上漲 (+11.43%)，分析師認為這可能是Meta在AI領域的重大突破，並可能改變多個行業的商業模式（多源, 09/23 05:26 台灣時間 GMT+8, 09/23 07:54 台灣時間 GMT+8）（信心：高）。\n- 記憶體NAND Flash因AI模型和推論需求，從商品轉變為關鍵組件。Rosenblatt分析師首次追蹤SanDisk (WDC旗下品牌) 並給予買進評等，目標價上調至2400美元，WDC股價上漲 (+1.54%)（多源, 09/23 05:30 台灣時間 GMT+8, 09/23 07:10 台灣時間 GMT+8）（信心：高）。\n- Intel (INTC) 股價大幅上漲 (+12.14%)，儘管新聞中未直接提及具體利好消息，但整體半導體板塊的強勁表現可能帶來提振（單源）（信心：中）。\n- NVDA (+2.30%) 和 MU (+2.77%) 均有顯著漲幅，ASML (+1.87%) 也表現良好，反映市場對AI和記憶體需求的預期（多源, 09/23 05:30 台灣時間 GMT+8, 09/23 07:10 台灣時間 GMT+8）（信心：高）。\n- SK Hynix (-1.50%) 逆勢下跌，與整體記憶體板塊的樂觀情緒形成對比，可能與其特定市場或產品線有關（單源）（信心：中）。\n- 數據中心為節省電力並增加容量，正從銅線轉向光學技術，這可能對相關光通訊或半導體產業帶來影響（單源, 09/23 07:03 台灣時間 GMT+8）（信心：中）。\n- 美國總統川普在聯合國演說中，考慮將人工智慧重新命名為「超級智慧」，並可能任命財政部長貝森特兼任AI事務負責人，顯示政府對AI發展的重視（多源, 09/22 23:53 台灣時間 GMT+8, 09/23 07:29 台灣時間 GMT+8）（信心：中）。\n\n## 三、台股與台廠動態（獨立段落）\n- TAIEX 加權指數今日上漲 (+1.14%)，表現優於S&P 500和Dow指數，顯示台股市場情緒相對樂觀（單源）（信心：高）。\n- 聯發科 (+3.39%) 和鴻海 (+1.20%) 均呈現上漲，為台股貢獻動能（單源）（信心：高）。\n- 台積電 (-0.81%) 逆勢小幅下跌，可能受個別因素影響，與整體科技股的強勢表現略有不同（單源）（信心：高）。\n- 記憶體族群方面，雖然國際新聞提及NAND Flash因AI需求被看好，SanDisk目標價上調，但台股記憶體族群今日無直接新聞報導（多源, 09/23 05:30 台灣時間 GMT+8, 09/23 07:10 台灣時間 GMT+8）（信心：中）。\n- 台泥擬以約212億元企業價值併購烏克蘭第二大水泥公司，拓展其在東歐的水泥版圖（單源, 09/23 07:15 台灣時間 GMT+8）（信心：高）。\n- 金管會表示樂見各縣市政府規劃資產管理專區，並擬定專法賦予其法律地位，以克服資金移動、稅負和人才等問題（單源, 09/22 22:50 台灣時間 GMT+8）（信心：中）。\n- 台灣在生成式AI使用率方面，第二季達到33.8%，全球排名上升至第19名，顯示台灣在AI應用方面持續進步（單源, 09/22 12:36 台灣時間 GMT+8）（信心：高）。\n\n## 四、市場情緒解讀（結合報價）\n### 4.1 主要指數表現：Markdown 表格\n| 名稱 | 收盤 | 漲跌 |\n|---|---|---|\n| S&P 500 | 7,764.64 | -0.00% |\n| Nasdaq | 27,244.28 | +0.45% |\n| Dow | 51,863.69 | -0.36% |\n| TAIEX | 47,718.84 | +1.14% |\n| SOX 費半 | 12,689.82 | +2.06% |\n\n### 4.2 半導體與科技個股：Markdown 表格\n| 名稱 | 收盤 | 漲跌 |\n|---|---|---|\n| NVDA | 227.38 | +2.30% |\n| MU | 1,043.96 | +2.77% |\n| ASML | 1,711.32 | +1.87% |\n| WDC | 448.17 | +1.54% |\n| SK Hynix | 1,840,000.00 | -1.50% |\n| INTC | 121.78 | +12.14% |\n| 台積電 | 2,460.00 | -0.81% |\n| GOOG | 350.87 | +1.88% |\n| META | 741.25 | +11.43% |\n| AAPL | 338.98 | +0.85% |\n| TSLA | 375.30 | +3.03% |\n| 聯發科 | 5,180.00 | +3.39% |\n| 鴻海 | 253.00 | +1.20% |\n\n### 4.3 避險資產與波動率：Markdown 表格\n| 名稱 | 收盤 | 漲跌 |\n|---|---|---|\n| Gold | 4,399.90 | +0.36% |\n| US 10Y | 4.97 | +0.10% |\n| DXY | 100.55 | +0.12% |\n| USD/JPY | 157.53 | +0.10% |\n| BTC | 86,222.63 | -0.44% |\n| VIX | 14.21 | -4.44% |\n| WTI | 89.66 | -6.39% |\n| Brent | 98.47 | -1.86% |\n避險資產如黃金、美元指數、美債殖利率變動不大，比特幣小幅下跌。VIX恐慌指數顯著下降，顯示市場恐慌情緒有所緩解。國際油價WTI和Brent因中東局勢談判預期及沙烏地油管重啟而大幅收低。\n\n### 4.4 跨市場聯動 F1 ＋ 異常值 F2\n- **F1 跨市場聯動：**\n    - Nasdaq創新高 (+0.45%) 和SOX費半指數大漲 (+2.06%)，顯示美股科技板塊的強勁表現對全球科技投資情緒產生正面影響（多源）（信心：高）。\n    - TAIEX (+1.14%) 表現優於S&P 500和Dow，可能受美股科技股樂觀情緒及聯發科等台廠表現帶動（多源）（信心：中）。\n    - 國際油價WTI (-6.39%) 和Brent (-1.86%) 大幅下跌，與美國和伊朗談判預期升溫有關，這可能緩解全球通膨壓力（多源）（信心：高）。\n- **F2 異常值：**\n    - INTC (+12.14%)：漲幅遠超Nasdaq (+0.45%) 和SOX費半 (+2.06%)，為今日美股半導體板塊的顯著異常強勢個股。\n    - META (+11.43%)：漲幅遠超Nasdaq (+0.45%)，主要受其AI助理Muse迅速走紅的利好消息影響。\n    - WTI (-6.39%)：跌幅顯著，遠超其他資產波動，反映中東地緣政治風險預期變化。\n    - VIX (-4.44%)：顯著下跌，表明市場恐慌情緒明顯降低，風險偏好有所提升。\n    - 聯發科 (+3.39%)：漲幅優於TAIEX (+1.14%)，表現強勁。\n    - TSLA (+3.03%)：漲幅優於Nasdaq (+0.45%)，表現強勁。\n\n## 五、If-Then 訊號與風險\n- 若 Meta 的 AI 助理 Muse 能持續吸引大量用戶並成功轉化為商業價值，→ 其股價可能維持強勢，並促使其他科技巨頭加速 AI 應用佈局，進一步推動科技板塊上漲（信心：中）。\n- 若美國與伊朗的談判持續取得進展，導致中東局勢緩和，→ 國際油價可能進一步承壓，有助於緩解全球通膨壓力，為各國央行提供更多政策彈性（信心：中）。\n- 若NAND Flash因AI應用需求持續增長，且供應商能有效管理產能和定價，→ 記憶體相關個股如WDC和MU可能持續受益，但SK Hynix的逆勢下跌提示需關注個別公司的市場策略和產品組合（信心：中）。\n\n## 六、三情境推演\n- **樂觀情境 (40%)：** AI創新持續推動科技股上漲，Meta的AI應用成功引領市場，美伊局勢緩和，油價穩定，全球經濟軟著陸預期增強，企業盈利普遍優於預期。\n- **基準情境 (50%)：** 科技股受AI利好支撐，但地緣政治風險（如美伊、俄烏）仍存，聯準會政策維持謹慎，市場波動性增加，部分行業因AI衝擊面臨轉型壓力。\n- **悲觀情境 (10%)：** 美伊談判破裂，地緣政治衝突升級，油價飆升，通膨壓力重燃，導致全球經濟增長放緩，企業盈利受損，市場避險情緒急劇升高。\n\n## 七、今日深入追問建議（3 條）\n- Meta的AI助理Muse對其廣告收入和用戶參與度將產生何種具體影響，以及其長期商業模式的潛力？\n- 美國與伊朗談判的實質進展如何，以及這將如何影響中東地區的穩定性與全球能源供應？\n- NAND Flash作為AI關鍵組件的趨勢，將如何改變記憶體產業的競爭格局和定價模式，以及對各主要供應商的影響？\n\n## 八、整體基調\n謹慎樂觀：科技股受AI利好推動，但地緣政治風險和油價波動仍需關注。",
+  "generated_at": "2026-09-23T21:52:35+08:00",
+  "title": "AI安全與基礎設施續受關注，美企獲利展望轉悲觀",
+  "summary": "## 一、今日重點快速提醒（3-5 點）\n1.  AI安全與發展持續成為焦點，川習會將討論AI安全，同時有新模型推出及基礎設施投資建議。（多源, 09/23 20:42 台灣時間 GMT+8）（信心：高）\n2.  美國企業獲利展望數月來首次轉為淨悲觀，分析師下修預估人數超過上修者。（單源, 09/23 20:50 台灣時間 GMT+8）（信心：高）\n3.  地緣政治緊張局勢仍存，美伊舉行會談，但英國因中東衝突面臨能源價格上漲及債務成本上升風險。（多源, 09/23 14:12 台灣時間 GMT+8）（信心：中）\n\n## 二、AI / 半導體 / 美股 / 聯準會 分析\n*   **AI發展與安全：** 川習會預計將討論AI安全議題，但雙方皆不願放慢發展速度（CNBC Top, 09/23 20:42；經濟日報, 09/23 21:37）。同時，Meta的Muse產品引發市場對AI顛覆性的擔憂（CNBC Top, 09/23 19:51），而Anthropic與OpenAI則推出成本更低的AI模型，顯示AI技術持續演進且更普及化（中央社 科技, 09/23 08:31）。阿里巴巴也發表新一代AI晶片，性能達前代3倍，並擴大AI基礎設施投入（中央社 科技, 09/22 14:43）。\n*   **AI基礎設施投資：** BNY Mellon基金經理人認為AI基礎設施投資尚未結束，看好相關領域（MarketWatch, 09/23 21:00）。貝萊德亦指出AI滲透速度快，預計未來幾年AI累計資本支出龐大，晶片、伺服器與雲端鏈仍具潛力（鉅亨網 頭條, 09/23 20:13）。\n*   **半導體與記憶體：** 量子計算公司IonQ宣布重大突破，股價在盤前上漲（CNBC Top, 09/23 20:35）。記憶體股MU上漲 +3.95%，SK Hynix上漲 +1.20%，WDC上漲 +0.84%，顯示記憶體族群表現強勁。NVDA小幅上漲 +0.31%，SOX費半指數上漲 +0.26%，整體半導體板塊維持韌性。ASML下跌 -0.12%，INTC下跌 -0.48%。\n*   **美股獲利展望：** 花旗集團指數顯示，分析師對美國企業獲利展望數月來首次轉為淨悲觀，下修預估人數超過上修者，儘管全年信心仍在，但對近期股市前景有所擔憂（鉅亨網 頭條, 09/23 20:50）。\n\n## 三、台股與台廠動態（獨立段落）\n台股加權指數TAIEX上漲 +0.92%，表現優於美股主要指數。台積電上漲 +1.63%，聯發科上漲 +0.10%，鴻海集團旗下工業電腦廠東擎科技舉行上市前業績發表會，和碩董事長童子賢對其業績表示高度肯定（中央社 產經證券, 09/23 19:06）。輝達將換房東，凱基人壽以新台幣206億元買下南港玉成廣場，預計潤泰新將認列約35億元處分利益（中央社 產經證券, 09/23 20:05）。貿聯-KY完成收購新加坡Interplex Datacom業務，強化資料中心基礎設施布局（鉅亨網 頭條, 09/23 20:23）。金管會調整永續揭露門檻，強制適用家數將從1970家降至約560家，以協助減壓中小型企業（中央社 產經證券, 09/23 19:17）。中油表示承擔穩定物價責任，籲各界支持追加預算增資撥補，以改善財務結構並確保能源供應安全（中央社 產經證券, 09/23 20:23）。房仲全聯會調查顯示，近5成受訪者認為應取消第2屋貸款成數上限（中央社 產經證券, 09/23 19:47）。\n\n## 四、市場情緒解讀（結合報價）\n### 4.1 主要指數表現：Markdown 表格\n| 名稱       | 收盤       | 漲跌    |\n| :--------- | :--------- | :------ |\n| S&P 500    | 7,741.28   | -0.30%  |\n| Nasdaq     | 27,129.42  | +0.03%  |\n| Dow        | 51,700.04  | -0.67%  |\n| TAIEX      | 48,157.29  | +0.92%  |\n| SOX 費半   | 12,465.95  | +0.26%  |\n\n### 4.2 半導體與科技個股：Markdown 表格\n| 名稱       | 收盤       | 漲跌    |\n| :--------- | :--------- | :------ |\n| NVDA       | 228.08     | +0.31%  |\n| MU         | 1,085.24   | +3.95%  |\n| ASML       | 1,709.35   | -0.12%  |\n| WDC        | 451.93     | +0.84%  |\n| SK Hynix   | 1,862,000.00 | +1.20%  |\n| INTC       | 121.19     | -0.48%  |\n| 台積電     | 2,500.00   | +1.63%  |\n\n### 4.3 避險資產與波動率：Markdown 表格\n| 名稱    | 收盤       | 漲跌    |\n| :------ | :--------- | :------ |\n| Gold    | 4,339.20   | -0.85%  |\n| US 10Y  | 4.99       | +0.62%  |\n| DXY     | 100.86     | +0.43%  |\n| USD/JPY | 158.15     | +0.49%  |\n| BTC     | 85,627.74  | -0.63%  |\n| VIX     | 14.23      | -4.30%  |\n| WTI     | 91.45      | -3.32%  |\n| Brent   | 96.79      | -2.48%  |\n避險資產方面，黃金、比特幣下跌，美元指數與美債殖利率上升，顯示市場對美元的避險需求略增，但VIX恐慌指數大幅下跌，油價也顯著回落，整體情緒略顯複雜，風險偏好未完全消退。\n\n### 4.4 跨市場聯動 F1 ＋ 異常值 F2（單日漲跌幅絕對值 >3% vs 大盤、或 >5% 者標記）\n*   **F1 跨市場聯動：**\n    *   AI相關新聞持續發酵，儘管美股主要指數表現平平，但記憶體相關個股如MU (+3.95%)、SK Hynix (+1.20%)、WDC (+0.84%) 表現強勁，顯示AI對硬體需求預期仍是市場焦點。\n    *   地緣政治緊張（美伊談判、中東衝突）與油價（WTI -3.32%, Brent -2.48%）及避險資產（Gold -0.85%, DXY +0.43%）的聯動，顯示市場對全球穩定性的擔憂與能源成本的權衡。\n*   **F2 異常值：**\n    *   MU: +3.95% (單日漲幅顯著，且遠超Nasdaq指數 +0.03%)\n    *   VIX: -4.30% (單日跌幅顯著)\n    *   WTI: -3.32% (單日跌幅顯著)\n    *   GOOG: -2.47% (單日跌幅較Nasdaq指數 +0.03% 顯著)\n\n## 五、If-Then 訊號與風險\n1.  若美國企業獲利展望持續惡化，可能對整體美股大盤構成壓力，尤其科技巨頭可能面臨估值調整（信心：中）。\n2.  若AI安全議題在川習會上未能達成具體共識，或AI技術發展速度過快導致監管不及，可能引發市場對AI產業未來發展的不確定性（信心：中）。\n3.  若中東地緣政治緊張局勢未能有效緩解，儘管油價今日下跌，未來仍可能因供應擔憂而反彈，進而影響全球通膨與經濟增長（信心：中）。\n\n## 六、三情境推演\n*   **樂觀情境 (30%)：** AI技術持續突破並商業化，企業獲利展望改善，地緣政治風險趨緩，全球經濟實現軟著陸。\n*   **基準情境 (50%)：** AI發展與基礎設施投資持續，但企業獲利面臨挑戰，地緣政治緊張局勢維持現狀，市場在樂觀與悲觀因素間拉扯，波動性增加。\n*   **悲觀情境 (20%)：** 美國企業獲利大幅下滑，AI監管風險升高，中東衝突升級導致能源價格飆漲，全球經濟陷入衰退。\n\n## 七、今日深入追問建議（3 條）\n1.  美國企業獲利展望轉悲觀的具體產業與公司為何？\n2.  AI安全議題在川習會後是否有具體政策或合作框架出爐？\n3.  記憶體族群強勁表現是否預示著AI硬體需求將加速爆發？\n\n## 八、整體基調\n謹慎樂觀。主因是AI相關投資與技術發展持續推進，但美國企業獲利展望轉悲觀及地緣政治風險仍需關注。",
   "market": [
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7764.64,
-      "change_pct": -0.0
+      "price": 7741.28,
+      "change_pct": -0.3
     },
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 27244.28,
-      "change_pct": 0.45
+      "price": 27129.42,
+      "change_pct": 0.03
     },
     {
       "ticker": "^DJI",
       "name": "Dow",
-      "price": 51863.69,
-      "change_pct": -0.36
+      "price": 51700.04,
+      "change_pct": -0.67
     },
     {
       "ticker": "^TWII",
       "name": "TAIEX",
-      "price": 47718.84,
-      "change_pct": 1.14
+      "price": 48157.29,
+      "change_pct": 0.92
     },
     {
       "ticker": "^SOX",
       "name": "SOX 費半",
-      "price": 12689.82,
-      "change_pct": 2.06
+      "price": 12465.95,
+      "change_pct": 0.26
     },
     {
       "ticker": "NVDA",
       "name": "NVDA",
-      "price": 227.38,
-      "change_pct": 2.3
+      "price": 228.08,
+      "change_pct": 0.31
     },
     {
       "ticker": "MU",
       "name": "MU",
-      "price": 1043.96,
-      "change_pct": 2.77
+      "price": 1085.24,
+      "change_pct": 3.95
     },
     {
       "ticker": "000660.KS",
       "name": "SK Hynix",
-      "price": 1840000.0,
-      "change_pct": -1.5
+      "price": 1862000.0,
+      "change_pct": 1.2
     },
     {
       "ticker": "ASML",
       "name": "ASML",
-      "price": 1711.32,
-      "change_pct": 1.87
+      "price": 1709.35,
+      "change_pct": -0.12
     },
     {
       "ticker": "WDC",
       "name": "WDC",
-      "price": 448.17,
-      "change_pct": 1.54
+      "price": 451.93,
+      "change_pct": 0.84
     },
     {
       "ticker": "INTC",
       "name": "INTC",
-      "price": 121.78,
-      "change_pct": 12.14
+      "price": 121.19,
+      "change_pct": -0.48
     },
     {
       "ticker": "GOOG",
       "name": "GOOG",
-      "price": 350.87,
-      "change_pct": 1.88
+      "price": 342.19,
+      "change_pct": -2.47
     },
     {
       "ticker": "META",
       "name": "META",
-      "price": 741.25,
-      "change_pct": 11.43
+      "price": 758.07,
+      "change_pct": 2.27
     },
     {
       "ticker": "AAPL",
       "name": "AAPL",
-      "price": 338.98,
-      "change_pct": 0.85
+      "price": 338.34,
+      "change_pct": -0.19
     },
     {
       "ticker": "TSLA",
       "name": "TSLA",
-      "price": 375.3,
-      "change_pct": 3.03
+      "price": 383.74,
+      "change_pct": 2.25
     },
     {
       "ticker": "SPCX",
       "name": "SPCX",
-      "price": 151.85,
-      "change_pct": -0.56
+      "price": 153.93,
+      "change_pct": 1.37
     },
     {
       "ticker": "2330.TW",
       "name": "台積電",
-      "price": 2460.0,
-      "change_pct": -0.81
+      "price": 2500.0,
+      "change_pct": 1.63
     },
     {
       "ticker": "2454.TW",
       "name": "聯發科",
-      "price": 5180.0,
-      "change_pct": 3.39
+      "price": 5185.0,
+      "change_pct": 0.1
     },
     {
       "ticker": "2317.TW",
       "name": "鴻海",
-      "price": 253.0,
-      "change_pct": 1.2
+      "price": 256.0,
+      "change_pct": 1.19
     },
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4399.9,
-      "change_pct": 0.36
+      "price": 4339.2,
+      "change_pct": -0.85
     },
     {
       "ticker": "^TNX",
       "name": "US 10Y",
-      "price": 4.97,
-      "change_pct": 0.1
+      "price": 4.99,
+      "change_pct": 0.62
     },
     {
       "ticker": "DX-Y.NYB",
       "name": "DXY",
-      "price": 100.55,
-      "change_pct": 0.12
+      "price": 100.86,
+      "change_pct": 0.43
     },
     {
       "ticker": "JPY=X",
       "name": "USD/JPY",
-      "price": 157.53,
-      "change_pct": 0.1
+      "price": 158.15,
+      "change_pct": 0.49
     },
     {
       "ticker": "BTC-USD",
       "name": "BTC",
-      "price": 86222.63,
-      "change_pct": -0.44
+      "price": 85627.74,
+      "change_pct": -0.63
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.21,
-      "change_pct": -4.44
+      "price": 14.23,
+      "change_pct": -4.3
     },
     {
       "ticker": "CL=F",
       "name": "WTI",
-      "price": 89.66,
-      "change_pct": -6.39
+      "price": 91.45,
+      "change_pct": -3.32
     },
     {
       "ticker": "BZ=F",
       "name": "Brent",
-      "price": 98.47,
-      "change_pct": -1.86
+      "price": 96.79,
+      "change_pct": -2.48
     }
   ],
   "sources": [
     {
-      "headline": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg",
+      "headline": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94af/live/1e4085d0-b714-11f1-8d21-19ad84e0e822.jpg",
       "publisher": "BBC World",
-      "published_at": "2026-09-23T05:50:31+08:00"
+      "published_at": "2026-09-23T14:12:56+08:00"
     },
     {
-      "headline": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db6/live/f0a69f40-b670-11f1-b711-df5e4d50c2fd.jpg",
+      "headline": "Reports of violence against women in Gaza surge, UN agency finds",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7adb/live/a6e48140-b717-11f1-bc1f-3f186ca4140c.jpg",
       "publisher": "BBC World",
-      "published_at": "2026-09-22T14:03:22+08:00"
+      "published_at": "2026-09-23T13:02:26+08:00"
     },
     {
-      "headline": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg",
+      "headline": "Off sick? You need to phone your boss, back-to-work adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/019d/live/f9eba800-b730-11f1-9f81-a10976817ca3.jpg",
       "publisher": "BBC Business",
-      "published_at": "2026-09-23T07:11:33+08:00"
+      "published_at": "2026-09-23T18:49:51+08:00"
     },
     {
-      "headline": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
-      "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg",
+      "headline": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5243/live/91e405b0-b751-11f1-bc1f-3f186ca4140c.jpg",
       "publisher": "BBC Business",
-      "published_at": "2026-09-23T07:01:28+08:00"
+      "published_at": "2026-09-23T21:50:25+08:00"
     },
     {
-      "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108366362-1790100248428-gettyimages-2296607109-_sr31614_7tnyvnsk.jpeg?v=1790100268&w=1920&h=1080",
+      "headline": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
+      "url": "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108352324-1790168588404-108352324-17872501702026-08-20t182133z_833306229_rc292nah2w1n_rtrmadp_0_usa-economy.jpg?v=1790168599&w=1920&h=1080",
       "publisher": "CNBC Top",
-      "published_at": "2026-09-23T07:43:48+08:00"
+      "published_at": "2026-09-23T19:44:32+08:00"
     },
     {
-      "headline": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-      "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108309240-1779213125284-gettyimages-2246416127-jr_11021_b52yzqhp.jpeg?v=1779221531&w=1920&h=1080",
+      "headline": "McDonald's will spend big on restaurant upgrades, training to drive growth",
+      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108263385-1770655273528-gettyimages-2231343932-US_STOCKS.jpeg?v=1790099726&w=1920&h=1080",
       "publisher": "CNBC Top",
-      "published_at": "2026-09-23T05:07:21+08:00"
+      "published_at": "2026-09-23T21:05:24+08:00"
     },
     {
-      "headline": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
-      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "headline": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
       "thumbnail": null,
       "publisher": "MarketWatch",
-      "published_at": "2026-09-23T05:44:00+08:00"
+      "published_at": "2026-09-23T21:43:00+08:00"
     },
     {
-      "headline": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "headline": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
       "thumbnail": null,
       "publisher": "MarketWatch",
-      "published_at": "2026-09-23T05:30:00+08:00"
+      "published_at": "2026-09-23T21:30:00+08:00"
     },
     {
-      "headline": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab2fdf4-1790115316.jpg?resize=1920%2C1440",
+      "headline": "Priests Against Genocide hold shroud with names of children killed in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/priests-against-genocide-hold-shroud-with-names-of-children-killed-in-gaza?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790169372.jpg?resize=1917%2C1080&quality=80",
       "publisher": "Al Jazeera",
-      "published_at": "2026-09-23T07:46:06+08:00"
+      "published_at": "2026-09-23T21:23:25+08:00"
     },
     {
-      "headline": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
-      "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
-      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab2e9fd284a-1790110205.jpg?resize=1920%2C1440",
+      "headline": "‘No legal grounds for fees on international strait’, says IOM chief",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/no-legal-grounds-for-fees-on-international-strait-says-iom-chief?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790169607.jpg?resize=1920%2C1080&quality=80",
       "publisher": "Al Jazeera",
-      "published_at": "2026-09-23T07:20:17+08:00"
+      "published_at": "2026-09-23T21:23:17+08:00"
     },
     {
-      "headline": "投資人關注美伊發展　美股漲跌互見那指創新高",
-      "url": "https://www.cna.com.tw/news/afe/202609230016.aspx",
+      "headline": "中油：承擔穩定物價責任　籲各界支持追加預算增資撥補",
+      "url": "https://www.cna.com.tw/news/afe/202609230334.aspx",
       "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
       "publisher": "中央社 產經證券",
-      "published_at": "2026-09-23T05:31:05+08:00"
+      "published_at": "2026-09-23T20:23:41+08:00"
     },
     {
-      "headline": "市場評估沙烏地油管重啟與中東局勢　國際油價收低",
-      "url": "https://www.cna.com.tw/news/afe/202609230014.aspx",
-      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "headline": "涉違詐防條例挨罰千萬　Meta：逾99%時限內處置完成",
+      "url": "https://www.cna.com.tw/news/afe/202609230333.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260923/1200x900_wmky_179252578565_202309300071000000.jpg",
       "publisher": "中央社 產經證券",
-      "published_at": "2026-09-23T04:51:00+08:00"
+      "published_at": "2026-09-23T20:18:39+08:00"
     },
     {
-      "headline": "帛琉副總統歐宜樓訪災防科技中心　借鏡台灣經驗、深化合作",
-      "url": "https://www.cna.com.tw/news/ait/202609220307.aspx",
-      "thumbnail": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260922/1292x768_wmkn_0_C20260922000186.jpg",
+      "headline": "夏普研發通用衛星天線　挑戰星鏈市場主導地位",
+      "url": "https://www.cna.com.tw/news/ait/202609230125.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
       "publisher": "中央社 科技",
-      "published_at": "2026-09-22T19:30:26+08:00"
+      "published_at": "2026-09-23T12:25:07+08:00"
     },
     {
-      "headline": "蔡英文：台灣要和世界保持緊密連結　有能力幫助夥伴",
-      "url": "https://www.cna.com.tw/news/ait/202609220264.aspx",
-      "thumbnail": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260922/1152x768_wmkn_0_C20260922000158.jpg",
+      "headline": "安全疑慮升溫之際　Anthropic、OpenAI推低價模型",
+      "url": "https://www.cna.com.tw/news/ait/202609230032.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260923/1999x1049_093148071448.jpg",
       "publisher": "中央社 科技",
-      "published_at": "2026-09-22T17:30:53+08:00"
+      "published_at": "2026-09-23T08:31:44+08:00"
     },
     {
-      "headline": "Muse打破消費慣性 金融、旅遊股重挫 舊有獲利模式拉警報",
-      "url": "https://money.udn.com/money/story/123398/9772008",
-      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35354619.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1056&sl=W&fw=1050&exp=3600",
+      "headline": "中國大陸 AI 交易青睞全球贏家 而非本土領軍企業",
+      "url": "https://money.udn.com/money/story/5599/9772756",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/01/35286585.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
       "publisher": "經濟日報",
-      "published_at": "2026-09-23T07:54:52+08:00"
+      "published_at": "2026-09-23T21:38:54+08:00"
     },
     {
-      "headline": "習近平將訪美　民團與民運人士集會表訴求",
-      "url": "https://money.udn.com/money/story/5599/9772007",
-      "thumbnail": "https://money.udn.com/static/img/moneyudn.jpg",
+      "headline": "川習會別期待太多！分析師：AI議題達成這2點協議 就算成功",
+      "url": "https://money.udn.com/money/story/5599/9773977",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35357920.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
       "publisher": "經濟日報",
-      "published_at": "2026-09-23T07:54:36+08:00"
+      "published_at": "2026-09-23T21:37:25+08:00"
     },
     {
-      "headline": "川普揚言若談判未果 可能「殲滅」伊朗",
-      "url": "https://news.cnyes.com/news/id/6613637",
-      "thumbnail": "https://cimg.cnyes.cool/prod/news/6613637/m/ef413993067f731b32bd2c3258b9110c.jpg",
+      "headline": "分析師對美企獲利展望改變 數月以來首度轉趨悲觀",
+      "url": "https://news.cnyes.com/news/id/6614277",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6614277/m/0b03eb1fa8be7204f90f645ef5a43888.jpg",
       "publisher": "鉅亨網 頭條",
-      "published_at": "2026-09-23T07:50:02+08:00"
+      "published_at": "2026-09-23T20:50:06+08:00"
     },
     {
-      "headline": "皇家加勒比跨足陸上度假市場 傳砸30億美元取得Sandals半數股權",
-      "url": "https://news.cnyes.com/news/id/6613606",
-      "thumbnail": "https://cimg.cnyes.cool/prod/news/6613606/m/c9018da68ac4c016064d45cf9d082239.jpg",
+      "headline": "關稅戰打了八年！美國真的贏了嗎？中國零組件換條路照樣進美國",
+      "url": "https://news.cnyes.com/news/id/6614127",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6614127/m/c32f49b0a0548a45e7b6a1ada06240b2.jpg",
       "publisher": "鉅亨網 頭條",
-      "published_at": "2026-09-23T07:40:02+08:00"
+      "published_at": "2026-09-23T20:30:03+08:00"
     }
   ]
 }
