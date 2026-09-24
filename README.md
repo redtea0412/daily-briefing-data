@@ -33,9 +33,19 @@ Android App 直接從這裡讀取。
 
 **https://redtea0412.github.io/daily-briefing-data/**
 
-那是 `index.html`，用 GitHub Pages 託管，重現了 App 三個分頁的樣子。
-它和 JSON 放在同一個 repo，所以用相對路徑 `./index.json` 就讀得到，
-沒有跨網域問題。
+那是 `index.html`，用 GitHub Pages 託管，重現了 App 四個分頁的樣子
+（簡報／來源／歷史／設定）。它和 JSON 放在同一個 repo，
+所以用相對路徑 `./index.json` 就讀得到，沒有跨網域問題。
+
+> ⚠️ **網頁版和 App 是各自獨立的實作，不共用程式碼。**
+> 改了 App 的畫面，這裡不會自動跟著變，反之亦然。
+> App 的分頁、版面有調整時，要記得回來同步 `index.html`。
+>
+> 已知的刻意差異：設定頁的「開啟連結的方式」在網頁版是唯讀的。
+> 那是 Android 的瀏覽器選擇功能，網頁沒有對應機制，連結一律開新分頁。
+>
+> `index.html` 裡的 `APP_VERSION` 要和 App 的
+> `build.gradle.kts` → `versionName` 保持一致（目前 1.1.0）。
 
 ---
 

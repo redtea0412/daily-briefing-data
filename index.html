@@ -146,7 +146,10 @@ html, body {
 }
 .screen::-webkit-scrollbar { width: 0; }
 
-/* ---------- 底部三分頁 ---------- */
+/* ---------- 底部四分頁 ----------
+   2026-09-24：跟著 App 從三格改成四格（新增「設定」）。
+   標籤同時縮短成兩個字——四格之後每格只剩原本的四分之三寬，
+   「過去的簡報」五個字會擠成一團。這和 App 的 Destinations.kt 是同一個決定。 */
 .navbar {
   flex: 0 0 auto;
   display: flex;
@@ -156,6 +159,7 @@ html, body {
 }
 .navitem {
   flex: 1;
+  min-width: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -169,7 +173,7 @@ html, body {
   font-size: 11px;
 }
 .navitem .pill {
-  padding: 3px 18px;
+  padding: 3px 16px;
   border-radius: 999px;
   display: flex;
   align-items: center;
@@ -403,6 +407,54 @@ html, body {
 .hrow .d  { font-size: 12px; color: var(--on-surface-var); margin-top: 4px; }
 .hdiv { height: 1px; background: var(--surface-var); margin: 0 4px; }
 
+/* ---------- 設定頁 ----------
+   版面對應 App 的 SettingsScreen.kt：一個大標題，底下是一段段的
+   「小標題 + 一張卡片」。每一列至少 64px 高——手機是用手指點的，
+   列太矮會點錯。這個高度在 App 那邊是常數 ROW_HEIGHT。 */
+.set-h1 {
+  font-size: 22px; font-weight: 700; line-height: 1.4;
+  color: var(--on-bg); margin: 4px 4px 18px;
+}
+.set-h2 {
+  font-size: 16px; font-weight: 600;
+  color: var(--primary); margin: 0 4px 8px;
+}
+.set-card {
+  background: var(--surface);
+  border-radius: 16px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.12);
+  overflow: hidden;
+}
+.set-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  min-height: 64px;
+  padding: 12px 16px;
+  border: 0;
+  background: none;
+  color: inherit;
+  font-family: inherit;
+  text-align: left;
+  text-decoration: none;
+}
+button.set-row, a.set-row { cursor: pointer; }
+button.set-row:hover, a.set-row:hover { background: var(--surface-var); }
+.set-row .ico  { flex: 0 0 24px; display: flex; color: var(--on-surface-var); }
+.set-row .body { flex: 1; min-width: 0; }
+.set-row .t    { font-size: 16px; line-height: 1.4; color: var(--on-surface); }
+.set-row .s    { font-size: 12px; line-height: 1.4; color: var(--on-surface-var); margin-top: 2px; }
+.set-row .v    { font-size: 13px; color: var(--on-surface-var);
+                 font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+/* 分隔線從文字處開始，不要穿過圖示（16 內距 + 24 圖示 + 16 間距） */
+.set-div  { height: 1px; background: var(--surface-var); margin-left: 56px; }
+.set-hint { font-size: 12px; line-height: 1.7; color: var(--on-surface-var); margin: 8px 4px 0; }
+.set-text { font-size: 13px; line-height: 1.8; color: var(--on-surface-var); padding: 0 16px 16px; }
+.set-text p { margin: 0 0 10px; }
+.set-text p:last-child { margin: 0; }
+.set-gap  { height: 26px; }
+
 /* ---------- 窄螢幕：手機開啟時就滿版，不要小小一格 ---------- */
 @media (max-width: 480px) {
   .page { padding: 0; gap: 0; }
@@ -470,13 +522,19 @@ html, body {
         <span class="pill">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7a5 5 0 000 10h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4a5 5 0 000-10z"/></svg>
         </span>
-        <span>資料來源</span>
+        <span>來源</span>
       </button>
       <button class="navitem" data-tab="history">
         <span class="pill">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M13 3a9 9 0 00-9 9H1l3.9 3.9.1.1L9 12H6a7 7 0 117 7 6.9 6.9 0 01-4.9-2L6.7 18.4A9 9 0 1013 3zm-1 5v5l4.3 2.5.7-1.2-3.5-2.1V8H12z"/></svg>
         </span>
-        <span>過去的簡報</span>
+        <span>歷史</span>
+      </button>
+      <button class="navitem" data-tab="settings">
+        <span class="pill">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.14 12.94c.04-.3.06-.61.06-.94s-.02-.64-.07-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54a.484.484 0 00-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/></svg>
+        </span>
+        <span>設定</span>
       </button>
     </nav>
   </div>
@@ -519,10 +577,15 @@ const REPO_BASE = '.';
 
 const bust = () => '?t=' + Date.now();
 
+/** 設定頁「關於」區塊會用到。版本號請和 App 的 build.gradle.kts versionName 保持一致 */
+const APP_VERSION   = '1.1.0';
+const DATA_REPO_URL = 'https://github.com/redtea0412/daily-briefing-data';
+
 /* ============================================================
    共用狀態
    ------------------------------------------------------------
-   selectedDate 三個分頁共用 —— 這正是 App 的核心行為
+   selectedDate 由前三個分頁共用 —— 這正是 App 的核心行為
+   （設定頁管的是使用者偏好，和「現在在看哪一天」無關，所以不碰它）
    （見 SharedBriefingViewModel.kt）。
    在「過去的簡報」點某一天，簡報頁與資料來源頁會同時跟著換。
    ============================================================ */
@@ -532,6 +595,7 @@ const state = {
   briefings: {},        // { '2026-07-30': {...} } 已下載的內容
   selectedDate: null,
   marketExpanded: false,
+  disclaimerOpen: false, // 設定頁的免責聲明是否展開
   loading: true,
   error: null,
 };
@@ -876,9 +940,83 @@ function viewHistory() {
   return html;
 }
 
+/* ---------- 分頁四：設定 ----------
+   對應 App 的 SettingsScreen.kt。
+
+   【「開啟連結的方式」為什麼是唯讀的】
+   那是 Android 的功能：App 裡點新聞會跳出選單問你要用哪個瀏覽器開，
+   選擇存在手機的 SharedPreferences 裡。網頁沒有這個機制，
+   連結一律用新分頁開。所以這裡照 App「還沒設定過」的樣子呈現
+   （顯示「每次詢問」、不顯示重設鈕，與 App 的 preferred == null 分支一致），
+   並在底下講清楚網頁版的差異，而不是放一個點了沒反應的開關。 */
+function viewSettings() {
+  const open = state.disclaimerOpen;
+
+  const icoBolt  = '<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M11 21h-1l1-7H7.5c-.58 0-.57-.32-.38-.66.19-.34.05-.08.07-.12C8.48 10.94 10.42 7.54 13 3h1l-1 7h3.5c.49 0 .56.33.47.51l-.07.15C12.96 17.55 11 21 11 21z"/></svg>';
+  const icoGlobe = '<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95a15.65 15.65 0 00-1.38-3.56A8.03 8.03 0 0118.92 8zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56A7.99 7.99 0 015.08 16zm2.95-8H5.08a7.99 7.99 0 014.33-3.56A15.65 15.65 0 008.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95a8.03 8.03 0 01-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"/></svg>';
+  const icoHelp  = '<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"/></svg>';
+
+  return `<div class="set-h1">設定</div>
+
+    <div class="set-h2">開啟連結的方式</div>
+    <div class="set-card">
+      <div class="set-row">
+        <div class="body">
+          <div class="s">目前設定</div>
+          <div class="t" style="margin-top:2px">每次詢問</div>
+        </div>
+      </div>
+    </div>
+    <div class="set-hint">
+      在 App 裡點新聞卡片時會跳出選單，讓你選這一次要用哪個瀏覽器開，
+      或是直接在 App 內開啟；按「一律採用」就會記住。<br>
+      網頁預覽版沒有這項設定，連結一律用新分頁開啟。
+    </div>
+
+    <div class="set-gap"></div>
+
+    <div class="set-h2">關於</div>
+    <div class="set-card">
+      <div class="set-row">
+        <span class="ico">${icoBolt}</span>
+        <div class="body"><div class="t">版本</div></div>
+        <span class="v">${esc(APP_VERSION)}</span>
+      </div>
+      <div class="set-div"></div>
+
+      <a class="set-row" href="${esc(DATA_REPO_URL)}" target="_blank" rel="noopener noreferrer">
+        <span class="ico">${icoGlobe}</span>
+        <div class="body">
+          <div class="t">資料來源</div>
+          <div class="s">簡報資料存放的位置</div>
+        </div>
+      </a>
+      <div class="set-div"></div>
+
+      <button class="set-row" id="discToggle" aria-expanded="${open}">
+        <span class="ico">${icoHelp}</span>
+        <div class="body">
+          <div class="t">免責聲明</div>
+          <div class="s">${open ? '點一下收合' : '點一下展開'}</div>
+        </div>
+      </button>
+      ${open ? `<div class="set-text">
+        <p>本 App 的簡報內容由 AI 自動彙整國際財經新聞與市場行情產生，可能有錯誤、遺漏或過時之處，僅供參考，不構成任何投資建議。</p>
+        <p>投資決策請自行查證原始資料來源，並自負盈虧。</p>
+        <p>市場行情資料來自第三方服務，可能有延遲或不準確的情形，不應作為交易依據。</p>
+      </div>` : ''}
+    </div>
+
+    <div style="height:12px"></div>`;
+}
+
 /* ---------- 繪製 ---------- */
 function render() {
-  if (state.error) {
+  // 設定頁不需要簡報資料，所以擺在最前面：
+  // 就算資料載入失敗，使用者還是看得到版本與免責聲明。
+  if (state.tab === 'settings') {
+    screenEl.innerHTML = viewSettings();
+  } else if (state.error) {
     screenEl.innerHTML = viewError(state.error);
   } else if (state.loading) {
     screenEl.innerHTML = viewLoading('載入中…');
@@ -908,6 +1046,15 @@ function render() {
   document.querySelectorAll('.hrow').forEach((el) => {
     el.addEventListener('click', () => selectDate(el.dataset.date));
   });
+
+  // 設定頁：免責聲明就地展開／收合
+  const disc = document.getElementById('discToggle');
+  if (disc) {
+    disc.addEventListener('click', () => {
+      state.disclaimerOpen = !state.disclaimerOpen;
+      render();
+    });
+  }
 }
 
 /* ============================================================
@@ -929,7 +1076,7 @@ async function ensureBriefing(date) {
 /**
  * 選定某一天。
  * 對應 App 的 SharedBriefingViewModel.selectDate()：
- * 換日期 → 三個分頁同時跟著換 → 自動跳到「簡報」分頁。
+ * 換日期 → 簡報／來源／歷史三個分頁同時跟著換 → 自動跳到「簡報」分頁。
  */
 async function selectDate(date) {
   state.selectedDate = date;
