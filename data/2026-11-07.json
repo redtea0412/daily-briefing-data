@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T09:41:51+08:00",
+  "title": "非農激增科技強彈，費半揚4.2%台積走弱",
+  "summary": "## 一、今日重點快速提醒（3-5 點）\n- 美國 10 月非農就業新增 16.5 萬人遠超預期，失業率降至 4.1%，推升科技股與費半強彈 4.21%（11/07 00:06 台灣時間，信心：高）。\n- 期中選舉民主黨大勝引發 AI 資料中心監管擔憂，高盛示警 AI 債務融資衝擊更甚網路泡沫，但基本面估值已大幅修正（11/07 08:50 台灣時間，信心：高）。\n- 台積電傳評估進軍 3D DRAM 製造以滿足輝達需求，台股因國際局勢補跌重挫 4.51% 破 4 萬點（11/07 01:22 台灣時間，信心：中）。\n- 輝達 RTX Spark 旗艦 PC 架構掀起熱議，惟地緣政治與外電報導間諜疑雲增加雜音，股價反彈 2.78%（11/07 08:42 台灣時間，信心：中）。\n\n## 二、AI / 半導體 / 美股 / 聯準會 分析\n- **非農就業超預期緩解衰退恐慌**：美國 10 月非農新增就業人數達 16.5 萬人（預期 5.9 萬人），失業率降至 4.1%，強韌就業促使資金回流超跌科技股，帶動費半大漲 4.21%、那指上漲 1.09%（多源：CNBC Markets, 11/07 00:06、中央社, 11/07 06:22）。惟長期失業逾 27 週比例創十年非疫情期新高，呈現結構隱憂（信心：高）。\n- **半導體族群暴力拋售後反彈分化**：經歷前日費半暴跌 12.2% 後，ASML（+5.02%）、MU（+5.12%）、INTC（+7.71%）展現強勁修復動能（多源：MarketWatch, 11/07 05:24、鉅亨網, 11/07 09:30）。但外圍亞洲市場 SK Hynix 重挫 10.44%，WDC 小跌 1.44%，反映市場對 AI 資本支出持續性疑慮未消（信心：高）。\n- **民主黨掌國會引發資料中心融資與監管風暴**：民主黨橫掃國會後，數名議員呼籲暫停資料中心興建，超大科技巨頭今年發債達 2,960 億美元，資料中心信用違約交換（CDS）突破 500 基點，微軟亦傳出調整租用甲骨文與 Nscale 算力合約（多源：MarketWatch, 11/07 05:37、經濟日報, 11/07 09:03、鉅亨網, 11/07 08:50）。Anthropic 估值預期亦面臨下修壓力（信心：高）。\n- **輝達生態系拓展與雜音交織**：輝達力推要價 15 萬至 20 萬元之 RTX Spark 超級晶片切入 Windows PC，但紐約時報報導國安間諜接觸黃仁勳疑雲引發市場關注，NVDA 收盤上漲 2.78% 至 186.64（多源：中央社, 11/07 08:42、經濟日報, 11/07 08:40）。市場持續檢視其高階產品在企業端之滲透進度（信心：中）。\n\n## 三、台股與台廠動態\n- **台股指數與權值股深度回檔**：受美股先前暴跌補跌效應影響，TAIEX 重挫 4.51%（收 39,701.64 點）。權值龍頭台積電大跌 4.69%（收 2,135.00 元），鴻海下跌 4.47%（收 224.50 元），聯發科跌幅相對收斂至 2.02%（收 3,390.00 元）（信心：高）。\n- **台積電傳進軍 3D DRAM 製造**：外電披露台積電應輝達要求，正評估建廠切入 3D DRAM 先進記憶體晶片製造，企圖在 AI 硬體產業鏈囊括更高附加價值，若成真將重塑記憶體代工生態（單源：中央社 科技, 11/07 01:22）（信心：中）。\n- **華碩抗跌逆勢獲法人青睞**：PC 品牌華碩將全年伺服器營收目標大幅上修至翻倍以上，本週獲投信與自營商連買支撐，反映算力基建長線需求仍受內資肯定（單源：鉅亨網 頭條, 11/07 09:30）（信心：高）。\n\n## 四、市場情緒解讀（結合報價）\n### 4.1 主要指數表現\n| 名稱 | 收盤 | 漲跌 |\n| --- | --- | --- |\n| S&P 500 | 7,376.86 | +0.31% |\n| Nasdaq | 24,579.42 | +1.09% |\n| Dow | 51,285.73 | -0.46% |\n| TAIEX | 39,701.64 | -4.51% |\n| SOX 費半 | 9,390.25 | +4.21% |\n\n### 4.2 半導體與科技個股\n| 名稱 | 收盤 | 漲跌 |\n| --- | --- | --- |\n| NVDA | 186.64 | +2.78% |\n| MU | 690.00 | +5.12% |\n| ASML | 1,424.75 | +5.02% |\n| WDC | 263.78 | -1.44% |\n| SK Hynix | 1,132,000.00 | -10.44% |\n| INTC | 56.28 | +7.71% |\n| 台積電 | 2,135.00 | -4.69% |\n\n### 4.3 避險資產與波動率\n| 名稱 | 收盤 | 漲跌 |\n| --- | --- | --- |\n| Gold | 4,079.50 | -0.83% |\n| US 10Y | 4.86 | +0.45% |\n| DXY | 102.28 | +0.72% |\n| USD/JPY | 157.50 | -0.54% |\n| BTC | 75,884.62 | -0.08% |\n| VIX | 25.64 | -9.01% |\n| WTI | 90.34 | -0.20% |\n| Brent | 97.76 | -0.54% |\n\n美就業強勁帶動美元走升與美債殖利率微揚，恐慌指數 VIX 大跌 9.01% 回落至 25.64，避險資產黃金與原油小幅拉回，市場極端恐慌情緒暫獲緩解。\n\n### 4.4 跨市場聯動 F1 ＋ 異常值 F2\n- **F1 跨市場聯動**：美股科技股與費半呈現顯著超跌反彈，但台股與韓股 SK Hynix 仍處於反映前一日美股重挫的延遲補跌階段，呈現美強亞弱的區域脫節現象。\n- **F2 異常值標記**：\n  - 單日漲幅 >3% vs 大盤：SOX 費半（+4.21%）、MU（+5.12%）、ASML（+5.02%）、INTC（+7.71%）、TSLA（+4.23%）。\n  - 單日跌幅絕對值 >3% vs 大盤：TAIEX（-4.51%）、台積電（-4.69%）、鴻海（-4.47%）、META（-3.96%）、SPCX（-9.05%）、SK Hynix（-10.44%）。\n\n## 五、If-Then 訊號與風險\n- 若美國民主黨國會正式立法限制 AI 資料中心用電或補貼 → 則科技巨頭發債成本進一步擴大、雲端資本支出下修，半導體估值將再度受壓（類似 2000 年電信基建過度擴張後的資本緊縮期）（信心：中）。\n- 若美股費半反彈能守穩 9,000 點整數關卡 → 則台積電與台股指數將在下週迎來逢低買盤的技術性修復反彈（信心：高）。\n\n## 六、三情境推演\n- **樂觀情境（30% 機率）**：非農數據確立美國景氣軟著陸，AI 營收變現速度加快帶動獲利預估兌現，費半與台積電快速修復失土回補缺口。\n- **基準情境（50% 機率）**：市場處於震盪打底期，政治面資料中心審查雜音與債務疑慮壓制科技股本益比，台美股市在均線下方進行區間整理。\n- **悲觀情境（20% 機率）**：雲端大廠資本支出實質縮減、信貸違約風險（CDS）外溢至金融市場，半導體族群下探 2022 年底估值低點。\n\n## 七、今日深入追問建議\n1. 微軟評估終止甲骨文及 Nscale 算力合約對 AI 伺服器供應鏈實質訂單的衝擊程度？\n2. 台積電進軍 3D DRAM 製造對傳統記憶體三雄（美光、三星、SK 海力士）競合版圖之影響？\n3. 美國國會資料中心審查聲浪升高下，超大科技巨頭發債成本與融資壓力之量化指標追蹤？\n\n## 八、整體基調\n**謹慎**：非農數據雖引發美股半導體技術性強彈，但亞洲市場補跌劇烈，且國會政局更迭對 AI 基建與債務融資的實質壓制正在發酵。",
+  "market": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7376.86,
+      "change_pct": 0.31
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "Nasdaq",
+      "price": 24579.42,
+      "change_pct": 1.09
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow",
+      "price": 51285.73,
+      "change_pct": -0.46
+    },
+    {
+      "ticker": "^TWII",
+      "name": "TAIEX",
+      "price": 39701.64,
+      "change_pct": -4.51
+    },
+    {
+      "ticker": "^SOX",
+      "name": "SOX 費半",
+      "price": 9390.25,
+      "change_pct": 4.21
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVDA",
+      "price": 186.64,
+      "change_pct": 2.78
+    },
+    {
+      "ticker": "MU",
+      "name": "MU",
+      "price": 690.0,
+      "change_pct": 5.12
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK Hynix",
+      "price": 1132000.0,
+      "change_pct": -10.44
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "price": 1424.75,
+      "change_pct": 5.02
+    },
+    {
+      "ticker": "WDC",
+      "name": "WDC",
+      "price": 263.78,
+      "change_pct": -1.44
+    },
+    {
+      "ticker": "INTC",
+      "name": "INTC",
+      "price": 56.28,
+      "change_pct": 7.71
+    },
+    {
+      "ticker": "GOOG",
+      "name": "GOOG",
+      "price": 281.74,
+      "change_pct": -1.94
+    },
+    {
+      "ticker": "META",
+      "name": "META",
+      "price": 605.08,
+      "change_pct": -3.96
+    },
+    {
+      "ticker": "AAPL",
+      "name": "AAPL",
+      "price": 342.37,
+      "change_pct": -0.52
+    },
+    {
+      "ticker": "TSLA",
+      "name": "TSLA",
+      "price": 358.22,
+      "change_pct": 4.23
+    },
+    {
+      "ticker": "SPCX",
+      "name": "SPCX",
+      "price": 123.62,
+      "change_pct": -9.05
+    },
+    {
+      "ticker": "2330.TW",
+      "name": "台積電",
+      "price": 2135.0,
+      "change_pct": -4.69
+    },
+    {
+      "ticker": "2454.TW",
+      "name": "聯發科",
+      "price": 3390.0,
+      "change_pct": -2.02
+    },
+    {
+      "ticker": "2317.TW",
+      "name": "鴻海",
+      "price": 224.5,
+      "change_pct": -4.47
+    },
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4079.5,
+      "change_pct": -0.83
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10Y",
+      "price": 4.86,
+      "change_pct": 0.45
+    },
+    {
+      "ticker": "DX-Y.NYB",
+      "name": "DXY",
+      "price": 102.28,
+      "change_pct": 0.72
+    },
+    {
+      "ticker": "JPY=X",
+      "name": "USD/JPY",
+      "price": 157.5,
+      "change_pct": -0.54
+    },
+    {
+      "ticker": "BTC-USD",
+      "name": "BTC",
+      "price": 75884.62,
+      "change_pct": -0.08
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 25.64,
+      "change_pct": -9.01
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI",
+      "price": 90.34,
+      "change_pct": -0.2
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent",
+      "price": 97.76,
+      "change_pct": -0.54
+    }
+  ],
+  "sources": [
+    {
+      "headline": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "publisher": "BBC World",
+      "published_at": "2026-11-07T05:06:25+08:00"
+    },
+    {
+      "headline": "Four midterms takeaways for 2028 White House race",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+      "publisher": "BBC World",
+      "published_at": "2026-11-07T00:12:22+08:00"
+    },
+    {
+      "headline": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "publisher": "BBC Business",
+      "published_at": "2026-11-07T05:06:25+08:00"
+    },
+    {
+      "headline": "Why the US midterms sparked an AI stock selloff",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+      "publisher": "BBC Business",
+      "published_at": "2026-11-07T02:32:16+08:00"
+    },
+    {
+      "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108373654-1794001082282-108373654-1791321406384-gettyimages-2298350717-NYC_JOBS.jpeg?v=1794001099&w=1920&h=1080",
+      "publisher": "CNBC Top",
+      "published_at": "2026-11-07T04:11:17+08:00"
+    },
+    {
+      "headline": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+      "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108463861-1793017404925-gettyimages-2297744238-2r1_4071_9tn6rdgd.jpeg?v=1793017658&w=1920&h=1080",
+      "publisher": "CNBC Top",
+      "published_at": "2026-11-07T05:07:07+08:00"
+    },
+    {
+      "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108373654-1794001082282-108373654-1791321406384-gettyimages-2298350717-NYC_JOBS.jpeg?v=1794001099&w=1920&h=1080",
+      "publisher": "CNBC Markets",
+      "published_at": "2026-11-07T04:11:17+08:00"
+    },
+    {
+      "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108204062-1758822673804-gettyimages-2237358671-jr_18090_aftovhqq.jpeg?v=1758822708&w=1920&h=1080",
+      "publisher": "CNBC Markets",
+      "published_at": "2026-11-07T00:06:59+08:00"
+    },
+    {
+      "headline": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "thumbnail": null,
+      "publisher": "MarketWatch",
+      "published_at": "2026-11-07T05:45:00+08:00"
+    },
+    {
+      "headline": "Elon Musk opens the door for a big SpaceX acquisition",
+      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "thumbnail": null,
+      "publisher": "MarketWatch",
+      "published_at": "2026-11-07T05:45:00+08:00"
+    },
+    {
+      "headline": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794012915.jpg?resize=1918%2C1080&quality=80",
+      "publisher": "Al Jazeera",
+      "published_at": "2026-11-07T08:55:51+08:00"
+    },
+    {
+      "headline": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee659d-1794008477.jpg?resize=1920%2C1440",
+      "publisher": "Al Jazeera",
+      "published_at": "2026-11-07T08:31:41+08:00"
+    },
+    {
+      "headline": "輝達RTX Spark掀話題　分析師：普及仍需時間",
+      "url": "https://www.cna.com.tw/news/afe/202611070023.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "publisher": "中央社 產經證券",
+      "published_at": "2026-11-07T08:51:31+08:00"
+    },
+    {
+      "headline": "一台20萬搶破頭　輝達RTX Spark打破PC傳統界線",
+      "url": "https://www.cna.com.tw/news/afe/202611070021.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "publisher": "中央社 產經證券",
+      "published_at": "2026-11-07T08:42:26+08:00"
+    },
+    {
+      "headline": "傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
+      "url": "https://www.cna.com.tw/news/ait/202611070005.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "publisher": "中央社 科技",
+      "published_at": "2026-11-07T04:25:45+08:00"
+    },
+    {
+      "headline": "傳台積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+      "url": "https://www.cna.com.tw/news/ait/202611070002.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261107/1965x1031_257327166837.jpg",
+      "publisher": "中央社 科技",
+      "published_at": "2026-11-07T01:22:36+08:00"
+    },
+    {
+      "headline": "民主黨勝選重擊美股！女議員喊停AI開發跟馬斯克開戰 遭網友圍剿",
+      "url": "https://money.udn.com/money/story/123398/9863251",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494328.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
+      "publisher": "經濟日報",
+      "published_at": "2026-11-07T09:03:30+08:00"
+    },
+    {
+      "headline": "涉持兒少性虐待影像　梅根父親馬克爾佛州被捕",
+      "url": "https://money.udn.com/money/story/5599/9863244",
+      "thumbnail": "https://money.udn.com/static/img/moneyudn.jpg",
+      "publisher": "經濟日報",
+      "published_at": "2026-11-07T09:00:49+08:00"
+    },
+    {
+      "headline": "〈熱門股〉華碩力扛大盤逆風獲法人買超 11/12召開法說",
+      "url": "https://news.cnyes.com/news/id/6651714",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651714/o/ba52d9217255c16165ee991e9ba93512.jpg",
+      "publisher": "鉅亨網 頭條",
+      "published_at": "2026-11-07T09:30:09+08:00"
+    },
+    {
+      "headline": "費半跌掉近4成、獲利預估卻大增155% 想撿便宜先過「這一關」",
+      "url": "https://news.cnyes.com/news/id/6651666",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651666/o/fe3f6228c83aaecc81cb9714b8535274.jpg",
+      "publisher": "鉅亨網 頭條",
+      "published_at": "2026-11-07T09:30:08+08:00"
+    }
+  ]
+}
