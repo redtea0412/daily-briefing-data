@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T10:54:26+08:00",
+  "title": "台股重挫5.7%失守3萬7，Anthropic上市難救AI賣壓",
+  "summary": "## 一、今日重點快速提醒（3-5 點）\n- 台股早盤湧現多殺多賣壓重挫逾2200點，收盤跌幅達-5.71%，國家隊力守台積電2,000元大關（台灣時間 GMT+8 11/20 10:37，信心：高）。\n- Anthropic首日掛牌估值一度衝上2兆美元，但無法挽回科技股信心，費半挫-2.41%、那指跌-2.25%（台灣時間 GMT+8 11/20 10:24，信心：高）。\n- 加州司法部門針對輝達展開晶片輸中調查，美議員質疑商務部核發出口許可，輝達收跌-3.30%（台灣時間 GMT+8 11/20 07:21，信心：高）。\n- 美國聯準會（Fed）釋放鷹派訊號推升升息預期，市場拋售黃金補保證金，現貨金價重挫-5.10%失守3600美元（台灣時間 GMT+8 11/20 09:50，信心：高）。\n\n## 二、AI / 半導體 / 美股 / 聯準會 分析\n- **Anthropic上市先盛後衰，未能重燃AI熱情**：AI純度最高的指標股Anthropic以史上最大IPO之姿掛牌，估值一度達2兆美元，但企業Token支出月增僅3%且第三季營益率轉負，加上承諾未來承擔龐大算力支出，引發獲利模式質疑；美股三大指數全線下挫逾2%，科技股面臨沉重拋售（CNBC Top, 11/20 08:00；多源，信心：高）。\n- **半導體監管風暴擴大，NVDA與AMD承壓**：加州檢察長就晶片轉道中國事件向輝達發出傳票，美議員亦揭露商務部曾核發逾87.9萬顆AI晶片銷中許可；同時放空機構指控AMD韌體現蹤被制裁中企，引發監管風險擴散，NVDA下跌-3.30%、SOX 費半下挫-2.41%（CNBC Top, 11/20 07:21；多源，信心：高）。\n- **記憶體與亞洲科技鏈重創，SK海力士大跌**：雖然AI記憶體（HBM）需求仍存，但外資連續7個月拋售韓股，高盛大幅下調KOSPI目標，SK Hynix重挫-6.42%，MU亦跌-2.10%；ASML同步收黑-2.80%，僅WDC逆勢收漲+2.98%（鉅亨網, 11/20 10:16；單源，信心：高）。\n- **聯準會鷹派預期疊加AI巨震，流動性顯現緊縮**：市場反映聯準會12月升息1碼機率飆升，美債殖利率維持在5.05高位；AI概念股的全面重挫更迫使機構投資人進行跨資產平倉變現（鉅亨網, 11/20 09:50；單源，信心：中）。\n\n## 三、台股與台廠動態（獨立段落）\n台股今日面臨極端多殺多無差別拋售潮，限空令難擋恐慌情緒，加權指數早盤一度暴跌超過2200點，收盤大跌-5.71%至36,232.42點，創台股史上第5大盤中跌點（中央社, 11/20 10:35）。千金股創意、健策、旺矽、智邦等多檔指標股打入跌停，約300家跌停；權值核心台積電面臨外資提款，重挫-4.52%至2,005.00元，公股與國家隊全力防守2,000元關卡；聯發科重挫-8.60%收3,400.00元，鴻海亦跌-4.08%收211.50元，新台幣匯率一度貶破33元關卡。此外，國泰金11月調查顯示通膨與AI疑慮導致台灣投資人股市樂觀指數全面回落（鉅亨網, 11/20 10:49；多源，信心：高）。\n\n## 四、市場情緒解讀（結合報價）\n\n### 4.1 主要指數表現\n| 名稱 | 收盤 | 漲跌 |\n| --- | --- | --- |\n| S&P 500 | 7,175.83 | -2.02% |\n| Nasdaq | 23,879.20 | -2.25% |\n| Dow | 49,097.06 | -2.19% |\n| TAIEX | 36,232.42 | -5.71% |\n| SOX 費半 | 9,419.72 | -2.41% |\n\n### 4.2 半導體與科技個股\n| 名稱 | 收盤 | 漲跌 |\n| --- | --- | --- |\n| NVDA | 145.98 | -3.30% |\n| MU | 690.44 | -2.10% |\n| ASML | 1,356.20 | -2.80% |\n| WDC | 296.78 | +2.98% |\n| SK Hynix | 1,107,000.00 | -6.42% |\n| INTC | 55.72 | +1.92% |\n| 台積電 | 2,005.00 | -4.52% |\n\n### 4.3 避險資產與波動率\n| 名稱 | 收盤 | 漲跌 |\n| --- | --- | --- |\n| Gold | 3,550.90 | -5.10% |\n| US 10Y | 5.05 | -0.28% |\n| DXY | 103.89 | +0.03% |\n| USD/JPY | 159.21 | -0.11% |\n| BTC | 61,676.21 | -2.08% |\n| VIX | 28.44 | +15.80% |\n| WTI | 82.96 | -0.36% |\n| Brent | 90.01 | -2.11% |\n\n恐慌指數VIX單日飆升+15.80%至28.44，避險資產黃金未發揮避風港功能反而暴跌-5.10%，反映市場正在發生嚴重的流動性拋售與保證金追繳效應。\n\n### 4.4 跨市場聯動 F1 ＋ 異常值 F2\n- **F1 跨市場聯動**：美股科技股的AI回檔全面向亞洲半導體供應鏈傳導，引發韓股SK Hynix（-6.42%）與台股TAIEX（-5.71%）的加速破位；同時AI獲利疑慮重創槓桿資金，導致現貨黃金（-5.10%）與加密貨幣BTC（-2.08%）同步失守。\n- **F2 異常值標記**：\n  - TAIEX（-5.71%）：跌幅超越全球主要市場，單日跌逾5%。\n  - SK Hynix（-6.42%）：單日跌幅絕對值大於5%，外資大幅撤離韓股。\n  - 聯發科（-8.60%）：相對大盤與費半出現極端拋售，遠超3%與5%警戒線。\n  - Gold（-5.10%）：避險商品單日崩跌逾5%，屬流動性踩踏異常值。\n  - VIX（+15.80%）：恐慌指標暴漲遠超5%。\n\n## 五、If-Then 訊號與風險\n- 若台積電2,000元整數關卡失守 → 則台股多殺多停損賣壓恐擴大至中小型電子股，引發融資斷頭潮（信心：高）。\n- 若美司法與商務部擴大對輝達及AMD的實體名單晶片穿透調查 → 則AI伺服器與加速卡供應鏈將面臨估值重估與訂單凍結風險（信心：中）。\n\n## 六、三情境推演\n- **基準情境（60%）**：AI估值修正與政策調查持續發酵，台美科技股在融資出清後震盪打底，台股於36,000點上下建立新防線。\n- **悲觀情境（25%）**：晶片輸中禁令擴大至全面審查，美股基金拋售潮加劇促使Fed維持超預期高利率，台股跌破35,000點並引發更大系統性去槓桿。\n- **樂觀情境（15%）**：Anthropic籌資資金快速轉化為實質算力訂單，白宮化解晶片出口疑慮，外資空頭回補帶動台美半導體出現跌深技術性反彈。\n\n## 七、今日深入追問建議（3 條）\n1. 加州檢調對輝達晶片轉道中國的傳票調查範圍與潛在罰則為何？\n2. 外資在台股期現貨的空單留倉與融資維持率是否已逼近斷頭臨界線？\n3. 日本10月核心通膨2.2%是否將迫使日銀於12月升息並引發利差交易平倉？\n\n## 八、整體基調\n高度警戒。主因為AI巨頭面臨美監管調查與獲利能力質疑，引發全球科技股與台股嚴重的去槓桿流動性踩踏。",
+  "market": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7175.83,
+      "change_pct": -2.02
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "Nasdaq",
+      "price": 23879.2,
+      "change_pct": -2.25
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow",
+      "price": 49097.06,
+      "change_pct": -2.19
+    },
+    {
+      "ticker": "^TWII",
+      "name": "TAIEX",
+      "price": 36232.42,
+      "change_pct": -5.71
+    },
+    {
+      "ticker": "^SOX",
+      "name": "SOX 費半",
+      "price": 9419.72,
+      "change_pct": -2.41
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVDA",
+      "price": 145.98,
+      "change_pct": -3.3
+    },
+    {
+      "ticker": "MU",
+      "name": "MU",
+      "price": 690.44,
+      "change_pct": -2.1
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK Hynix",
+      "price": 1107000.0,
+      "change_pct": -6.42
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "price": 1356.2,
+      "change_pct": -2.8
+    },
+    {
+      "ticker": "WDC",
+      "name": "WDC",
+      "price": 296.78,
+      "change_pct": 2.98
+    },
+    {
+      "ticker": "INTC",
+      "name": "INTC",
+      "price": 55.72,
+      "change_pct": 1.92
+    },
+    {
+      "ticker": "GOOG",
+      "name": "GOOG",
+      "price": 279.2,
+      "change_pct": 0.58
+    },
+    {
+      "ticker": "META",
+      "name": "META",
+      "price": 616.38,
+      "change_pct": -0.4
+    },
+    {
+      "ticker": "AAPL",
+      "name": "AAPL",
+      "price": 349.21,
+      "change_pct": -0.92
+    },
+    {
+      "ticker": "TSLA",
+      "name": "TSLA",
+      "price": 374.41,
+      "change_pct": -2.43
+    },
+    {
+      "ticker": "SPCX",
+      "name": "SPCX",
+      "price": 143.5,
+      "change_pct": 1.27
+    },
+    {
+      "ticker": "2330.TW",
+      "name": "台積電",
+      "price": 2005.0,
+      "change_pct": -4.52
+    },
+    {
+      "ticker": "2454.TW",
+      "name": "聯發科",
+      "price": 3400.0,
+      "change_pct": -8.6
+    },
+    {
+      "ticker": "2317.TW",
+      "name": "鴻海",
+      "price": 211.5,
+      "change_pct": -4.08
+    },
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3550.9,
+      "change_pct": -5.1
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10Y",
+      "price": 5.05,
+      "change_pct": -0.28
+    },
+    {
+      "ticker": "DX-Y.NYB",
+      "name": "DXY",
+      "price": 103.89,
+      "change_pct": 0.03
+    },
+    {
+      "ticker": "JPY=X",
+      "name": "USD/JPY",
+      "price": 159.21,
+      "change_pct": -0.11
+    },
+    {
+      "ticker": "BTC-USD",
+      "name": "BTC",
+      "price": 61676.21,
+      "change_pct": -2.08
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 28.44,
+      "change_pct": 15.8
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI",
+      "price": 82.96,
+      "change_pct": -0.36
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent",
+      "price": 90.01,
+      "change_pct": -2.11
+    }
+  ],
+  "sources": [
+    {
+      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+      "publisher": "BBC World",
+      "published_at": "2026-11-20T07:33:51+08:00"
+    },
+    {
+      "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+      "publisher": "BBC World",
+      "published_at": "2026-11-20T08:13:21+08:00"
+    },
+    {
+      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+      "publisher": "BBC Business",
+      "published_at": "2026-11-20T07:33:51+08:00"
+    },
+    {
+      "headline": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+      "publisher": "BBC Business",
+      "published_at": "2026-11-20T10:48:47+08:00"
+    },
+    {
+      "headline": "AMD dives on short seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108475785-1793209626528-gettyimages-2298419069-SKOREA_AMD.jpeg?v=1793209658&w=1920&h=1080",
+      "publisher": "CNBC Top",
+      "published_at": "2026-11-20T08:08:34+08:00"
+    },
+    {
+      "headline": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+      "publisher": "CNBC Top",
+      "published_at": "2026-11-20T10:33:39+08:00"
+    },
+    {
+      "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108555014-1795079642832-gettyimages-2215845730-AFP_47TW9CP.jpeg?v=1795079673&w=1920&h=1080",
+      "publisher": "CNBC Markets",
+      "published_at": "2026-11-20T09:49:03+08:00"
+    },
+    {
+      "headline": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108552211-1794920043911-108552211-1794850759211-gettyimages-2304954172-FEDERAL_RESERVE_CONFERENCE.jpg?v=1794920053&w=1920&h=1080",
+      "publisher": "CNBC Markets",
+      "published_at": "2026-11-20T04:18:47+08:00"
+    },
+    {
+      "headline": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "thumbnail": null,
+      "publisher": "MarketWatch",
+      "published_at": "2026-11-20T09:30:00+08:00"
+    },
+    {
+      "headline": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "thumbnail": null,
+      "publisher": "MarketWatch",
+      "published_at": "2026-11-20T09:22:00+08:00"
+    },
+    {
+      "headline": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affa5c2-1795139010.jpg?resize=1920%2C1440",
+      "publisher": "Al Jazeera",
+      "published_at": "2026-11-20T09:29:28+08:00"
+    },
+    {
+      "headline": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP18284469601975-1795136726.jpg?resize=1920%2C1440",
+      "publisher": "Al Jazeera",
+      "published_at": "2026-11-20T09:10:06+08:00"
+    },
+    {
+      "headline": "限空令難擋賣壓　台股重挫逾2200點史上第5大盤中跌點",
+      "url": "https://www.cna.com.tw/news/afe/202611200056.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261120/1200x629_055820344218.jpg",
+      "publisher": "中央社 產經證券",
+      "published_at": "2026-11-20T10:35:38+08:00"
+    },
+    {
+      "headline": "Anthropic上市首日先盛後衰　AI熱潮能否延續備受關注",
+      "url": "https://www.cna.com.tw/news/ait/202611200054.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "publisher": "中央社 產經證券",
+      "published_at": "2026-11-20T10:24:34+08:00"
+    },
+    {
+      "headline": "阿里巴巴遭股東告詐欺　涉隱瞞與輝達間諜案關係",
+      "url": "https://www.cna.com.tw/news/ait/202611200037.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "publisher": "中央社 科技",
+      "published_at": "2026-11-20T09:24:56+08:00"
+    },
+    {
+      "headline": "Visa、摩根大通用戶個資遭駭　n0n勒索軟體組織宣稱犯案",
+      "url": "https://www.cna.com.tw/news/aopl/202611200028.aspx",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261120/1216x638_572522624145.jpg",
+      "publisher": "中央社 科技",
+      "published_at": "2026-11-20T08:43:37+08:00"
+    },
+    {
+      "headline": "科技系統故障引發批評　白宮國家網路總監遭撤換",
+      "url": "https://money.udn.com/money/story/5599/9890721",
+      "thumbnail": "https://money.udn.com/static/img/moneyudn.jpg",
+      "publisher": "經濟日報",
+      "published_at": "2026-11-20T10:36:40+08:00"
+    },
+    {
+      "headline": "Anthropic上市首日先盛後衰　AI熱潮能否延續備受關注",
+      "url": "https://money.udn.com/money/story/123398/9890720",
+      "thumbnail": "https://money.udn.com/static/img/moneyudn.jpg",
+      "publisher": "經濟日報",
+      "published_at": "2026-11-20T10:36:26+08:00"
+    },
+    {
+      "headline": "〈國泰金經濟調查〉通膨升溫+AI疑慮再起 11月景氣、股市樂觀指數同步回落",
+      "url": "https://news.cnyes.com/news/id/6668589",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6668589/o/c577f2539021758774b998ab3fd0fca7.jpg",
+      "publisher": "鉅亨網 頭條",
+      "published_at": "2026-11-20T10:49:25+08:00"
+    },
+    {
+      "headline": "微型金融違約增加 裕融：增提備抵 資產品質穩健可控",
+      "url": "https://news.cnyes.com/news/id/6668632",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6668632/o/112959f779fc14e3a93d6b507d6b7950.jpg",
+      "publisher": "鉅亨網 頭條",
+      "published_at": "2026-11-20T10:46:42+08:00"
+    }
+  ]
+}
